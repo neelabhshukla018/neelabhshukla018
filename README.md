@@ -1,14 +1,26 @@
 <h1 align="center">Hi 👋, I'm Neelabh Shukla</h1>
 <h3 align="center">Full Stack Developer Learner | DSA Enthusiast | Java + Frontend Web Developer 🔥</h3>
 
+<!-- Typing and Image Side by Side -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7931E&center=true&vCenter=true&width=435&lines=Passionate+Java+Developer;Loves+Frontend+Crafting;DSA+Practitioner+%F0%9F%94%A5;Learning+Full+Stack+Every+Day" alt="Typing SVG" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7931E&vCenter=true&width=420&lines=Passionate+Java+Developer;Frontend+Craftsman+%F0%9F%92%BB;DSA+Practitioner+%F0%9F%94%A5;Learning+Full+Stack+Every+Day" alt="Typing SVG" />
+      </td>
+      <td>
+        <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Glowing Frame" width="200" style="border-radius: 50%;" />
+      </td>
+    </tr>
+  </table>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/neelabhshukla018/neelabhshukla018/main/nelu.jpg" alt="Neelabh's Avatar" width="200" style="border-radius: 50%;" />
-</p>
+---
 
+### 🧠 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sirneelabhshuklaji?theme=radical&font=Kreon&ext=activity" alt="LeetCode Stats"/>
+</p>
 
 ---
 
@@ -50,9 +62,10 @@
 ---
 
 ### 💼 Projects
-- 🚀 **Traventure** – Travel booking platform
-- 🎓 **Tutand Tutor** – Student-tutor connecting app
+- 🚀 **Traventure** – Travel booking platform  
+- 🎓 **Tutand Tutor** – Student-tutor connecting app  
 - 🛒 **Yumcart** – Online food ordering cart with PDF bill
+- 🛒 **EarthWear** – Online best and affordable shopping platform
 
 ---
 
@@ -62,8 +75,8 @@
 ---
 
 ### 🤩 Fun Facts
-- I love building aesthetic UIs and solving real-world problems.
-- Coffee + Code = 🔥 Best Combo
+- I love building aesthetic UIs and solving real-world problems.  
+- Coffee + Code = 🔥 Best Combo  
 - I'm always up for a coding challenge on Leetcode!
 
 ---
