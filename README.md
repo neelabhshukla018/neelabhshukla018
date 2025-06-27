@@ -6,7 +6,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7931E&vCenter=true&width=420&lines=Passionate+Java+Developer;Frontend+Craftsman+%F0%9F%92%BB;DSA+Practitioner+%F0%9F%94%A5;Learning+Full+Stack+Every+Day" alt="Typing SVG" />
+        <img src="https://github.com/neelabhshukla018/neelabhshukla018/blob/main/nelu.jpg" alt="Typing SVG" />
       </td>
       <td>
         <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Glowing Frame" width="200" style="border-radius: 50%;" />
