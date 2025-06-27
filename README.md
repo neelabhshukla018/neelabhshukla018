@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/neelabhshukla018/neelabhshukla018/blob/main/nelu.jpg" alt="Neelabh's Avatar" width="200" style="border-radius: 50%;" />
+  <img src="![nelu](https://github.com/user-attachments/assets/a5e9d212-a541-4486-8d79-eca9555bd4c9)
+" alt="Neelabh's Avatar" width="200" style="border-radius: 50%;" />
 </p>
 
 ---
