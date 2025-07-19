@@ -1,12 +1,12 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Neelabh+Shukla;Full+Stack+Developer+Learner;Java+%2B+Frontend+Web+Developer+%F0%9F%94%A5;DSA+Enthusiast+%F0%9F%92%AB" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi 👋, I'm Neelabh Shukla</h1>
+<h3 align="center">Full Stack Developer Learner | DSA Enthusiast | Java + Frontend Web Developer 🔥</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="200" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7931E&center=true&vCenter=true&width=435&lines=Passionate+Java+Developer;Loves+Frontend+Crafting;DSA+Practitioner+%F0%9F%94%A5;Learning+Full+Stack+Every+Day" alt="Typing SVG" />
 </p>
 
 ---
+
 
 ### 🔧 Tech Stack & Tools
 <p align="center">
@@ -26,12 +26,14 @@
 
 ---
 
+
 ### 🧠 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sirneelabhshuklaji?theme=unicorn&ext=contest&font=Fira+Code" />
+  <img src="https://leetcard.jacoblin.cool/sirneelabhshuklaji?theme=radical&font=Kreon&ext=activity" alt="LeetCode Stats"/>
 </p>
 
 ---
+
 
 ### 📌 Badges
 
