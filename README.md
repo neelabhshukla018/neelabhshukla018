@@ -9,7 +9,7 @@
 
 
 ### 🔧 Tech Stack & Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,js,html,css,react,angular,vue,bootstrap,tailwind,figma,github,vscode,nodejs,mysql,mongodb,python&perline=16" /> </p> <style> img[src*="skillicons.dev/icons"] { transition: transform 0.3s ease-in-out; } img[src*="skillicons.dev/icons"]:hover { transform: scale(1.15); } </style>
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,js,html,css,react,angular,vue,bootstrap,tailwind,figma,github,vscode,nodejs,mysql,mongodb,python&perline=16" /> </p>
 
 ---
 
