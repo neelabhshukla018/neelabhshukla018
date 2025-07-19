@@ -36,14 +36,6 @@
 
 
 
-### 🧠 LeetCode Stats
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/sirneelabhshuklaji?theme=radical&font=Kreon&ext=activity" alt="LeetCode Stats"/>
-</p>
-
----
-
-
 ### 🌍 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/neelabh-shukla-45b88a2a5"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
@@ -53,6 +45,25 @@
 </p>
 
 ---
+
+
+### 🧠 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sirneelabhshuklaji?theme=radical&font=Kreon&ext=activity" alt="LeetCode Stats"/>
+</p>
+
+---
+
+
+### 📌 Badges
+<p align="center">
+  <img src="https://img.shields.io/badge/Java%20Lover-orange?style=flat-square&logo=java"/>
+  <img src="https://img.shields.io/badge/Code%20Never%20Sleeps-black?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/Frontend%20Fanatic-purple?style=flat-square&logo=react"/>
+</p>
+
+---
+
 
 ### 📈 GitHub Stats
 <p align="center">
@@ -84,14 +95,7 @@
 
 ---
 
-### 📌 Badges
-<p align="center">
-  <img src="https://img.shields.io/badge/Java%20Lover-orange?style=flat-square&logo=java"/>
-  <img src="https://img.shields.io/badge/Code%20Never%20Sleeps-black?style=flat-square&logo=github"/>
-  <img src="https://img.shields.io/badge/Frontend%20Fanatic-purple?style=flat-square&logo=react"/>
-</p>
 
----
 
 <h3 align="center">Thanks for visiting my profile! 🌟</h3>
 <p align="center">
