@@ -5,14 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7931E&center=true&vCenter=true&width=435&lines=Passionate+Java+Developer;Loves+Frontend+Crafting;DSA+Practitioner+%F0%9F%94%A5;Learning+Full+Stack+Every+Day" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/neelabhshukla018/neelabhshukla018/main/dreasm.jpg" alt="Neelabh's Avatar" width="200" style="border-radius: 50%;" />
-</p>
-
-
----
-
-
 ---
 
 
