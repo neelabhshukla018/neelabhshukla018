@@ -15,12 +15,6 @@
 
 ---
 
-### 🧠 LeetCode Stats
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/sirneelabhshuklaji?theme=radical&font=Kreon&ext=activity" alt="LeetCode Stats"/>
-</p>
-
----
 
 ### 🔧 Tech Stack & Tools
 <p align="center">
@@ -40,14 +34,15 @@
 
 ---
 
-### 📈 GitHub Stats
+
+
+### 🧠 LeetCode Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neelabhshukla018&show_icons=true&theme=radical" alt="stats"/>
-  <img src="https://streak-stats.demolab.com/?user=neelabhshukla018&theme=radical&hide_border=true" alt="streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelabhshukla018&layout=compact&theme=radical"/>
+  <img src="https://leetcard.jacoblin.cool/sirneelabhshuklaji?theme=radical&font=Kreon&ext=activity" alt="LeetCode Stats"/>
 </p>
 
 ---
+
 
 ### 🌍 Connect with Me
 <p align="center">
@@ -58,6 +53,16 @@
 </p>
 
 ---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neelabhshukla018&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://streak-stats.demolab.com/?user=neelabhshukla018&theme=radical&hide_border=true" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelabhshukla018&layout=compact&theme=radical"/>
+</p>
+
+---
+
 
 ### 💼 Projects
 - 🚀 *Traventure* – Travel booking platform
