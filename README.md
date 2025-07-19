@@ -9,9 +9,7 @@
 
 
 ### 🔧 Tech Stack & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,angular,vue,bootstrap,tailwind,figma,github,vscode&perline=7" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,js,html,css,react,angular,vue,bootstrap,tailwind,figma,github,vscode,nodejs,mysql,mongodb,python&perline=16" /> </p> <style> img[src*="skillicons.dev/icons"] { transition: transform 0.3s ease-in-out; } img[src*="skillicons.dev/icons"]:hover { transform: scale(1.15); } </style>
 
 ---
 
@@ -21,7 +19,7 @@
   <a href="https://linkedin.com/in/neelabh-shukla-45b88a2a5"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://neelabhshuklaportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox-browser&logoColor=orange" /></a>
   <a href="https://leetcode.com/u/sirneelabhshuklaji/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://www.instagram.com/arjun_dream_0007/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/arjun_dream_1845/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
