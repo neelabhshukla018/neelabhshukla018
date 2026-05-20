@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neelabh Shukla</h1>
-<h3 align="center">Full Stack Developer Learner | DSA Enthusiast | Java + Frontend Web Developer 🔥</h3>
+<h3 align="center">React Developer | DSA Enthusiast | Java 🔥</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7931E&center=true&vCenter=true&width=435&lines=Passionate+Java+Developer;Loves+Frontend+Crafting;DSA+Practitioner+%F0%9F%94%A5;Learning+Full+Stack+Every+Day" alt="Typing SVG" />
