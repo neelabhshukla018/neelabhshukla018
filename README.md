@@ -55,13 +55,6 @@ Work In Progress... Dropping Soon......Stay Tuned......
 
 ---
 
-### 🌀 Fun Facts
-
-- I love crafting smooth and beautiful UI experiences
-- Always exploring new frontend libraries & frameworks
-- Competitive coder & LeetCode challenger 💥
-
----
 
 <h3 align="center">Thanks for visiting my profile! 🌟</h3>
 
