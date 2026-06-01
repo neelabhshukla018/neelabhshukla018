@@ -15,7 +15,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,react,nextjs,bootstrap,tailwind,figma,nodejs,mongodb,mysql,express,python&perline=16" />
 </p>
-
+---
 
 ### 🌍 Connect with Me
 
@@ -34,7 +34,7 @@
   <img src="https://leetcard.jacoblin.cool/sirneelabhshuklaji?theme=radical&font=Kreon&ext=activity" alt="LeetCode Stats"/>
 </p>
 
----
+
 
 ---
 
