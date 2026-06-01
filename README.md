@@ -10,8 +10,10 @@
 ---
 
 
+### 🔧 Tech Stack & Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,react,nextjs,bootstrap,tailwind,figma,nodejs,express,mongodb,mysql,python,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,react,nextjs,bootstrap,tailwind,figma,nodejs,mongodb,mysql,express,python&perline=16" />
 </p>
 
 ### 🌍 Connect with Me
