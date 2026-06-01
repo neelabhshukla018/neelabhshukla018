@@ -11,7 +11,8 @@
 
 
 ### 🔧 Tech Stack & Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,js,html,css,react,angular,vue,bootstrap,tailwind,figma,github,vscode,nodejs,mysql,mongodb,python&perline=16" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?
+                     i=java,react,react,next,bootstrap,tailwind,figma,nodejs,mongodb,mysql,express,python&perline=16" /> </p>
 
 ---
 
