@@ -1,5 +1,5 @@
 
-<h1 align="center">𝓗𝓲 👋, 𝓘'𝓶 𝓝𝓮𝓮𝓵𝓪𝓫𝓱 𝓢𝓱𝓾𝓴𝓵𝓪 ✨</h1>
+<h1 align="center">HI 👋, I'm 𝓝𝓮𝓮𝓵𝓪𝓫𝓱 𝓢𝓱𝓾𝓴𝓵𝓪 ✨</h1>
 
 <h3 align="center">MERN Stack Developer </h3>
 
