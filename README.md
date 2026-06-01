@@ -36,33 +36,16 @@
 
 ---
 
-
-### 📌 Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java%20Lover-orange?style=flat-square&logo=java" />
-  <img src="https://img.shields.io/badge/Code%20Never%20Sleeps-black?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Frontend%20Fanatic-purple?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/DSA%20Warrior-green?style=flat-square&logo=leetcode" />
-</p>
-
----
-
 ---
 
 ### 💼 Projects
 
-🚀 **Traventure** – Travel booking platform ---> https://traventure-toursandtravel.netlify.app/
-
-🎓 **Tutand Tutor** – Student-tutor connecting app  
-🛒 **Yumcart** – Online food ordering cart with PDF bill  
-🛍️ **EarthWear** – Best & affordable shopping platform  
-
+Work In Progress... Dropping Soon......Stay Tuned......
 ---
 
 ### ✨ Fun with Code
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&lines=Coffee+%2B+Code+%3D+Perfect+Combo+%E2%98%95;Let's+Build+Beautiful+UIs+Together!;Coding+is+My+Happy+Place+%F0%9F%8C%8D;Frontend+and+DSA+are+My+Jam" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&lines=Coffee+%2B+Code+%3D+Perfect+Combo+%E2%98%95;Let's+Build+Beautiful+UIs+Together!;Coding+is+My+Happy+Place+%F0%9F%8C%8D" />
 </p>
 
 ---
