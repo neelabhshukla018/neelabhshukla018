@@ -98,10 +98,9 @@ https://github.com/neelabhshukla018/Despiree-_Blogs
 
 ---
 
-### 🧠 LeetCode Stats <p align="center"> <img src="https://leetcard.jacoblin.cool/sirneelabhshuklaji?theme=radical&font=Kreon&ext=activity" alt="LeetCode Stats"/> </p> ---
+### 🧠 LeetCode Stats
+<p align="center"> <img src="https://leetcard.jacoblin.cool/sirneelabhshuklaji?theme=radical&font=Kreon&ext=activity" alt="LeetCode Stats"/> </p> 
 
-
-<h3 align="center">Thanks for visiting my profile! 🌟</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=neelabhshukla018&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p> <p align="center"> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" /> </p>
 ---
 
 # 🌐 Connect With Me
@@ -131,10 +130,8 @@ https://github.com/neelabhshukla018/Despiree-_Blogs
 </p>
 
 ---
+<h3 align="center">Thanks for visiting my profile! 🌟</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=neelabhshukla018&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+<p align="center"> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" /> </p>
+---
 
-<div align="center">
-
-### 
-*"Code. Learn. Build. Repeat."*
-
-</div>
