@@ -1,84 +1,160 @@
-<h1 align="center">Hi 👋, I'm Neelabh Shukla</h1>
+<div align="center">
 
-<h3 align="center">Full-Stack Developer • Java & DSA • Exploring Agentic AI</h3>
+# Hi 👋, I'm **Neelabh Shukla**
 
-<p align="center">
-  I build responsive web applications, work with APIs & databases,<br/>
-  and enjoy turning ideas into real-world projects.
+### Full-Stack Developer • Agentic AI Learner
+
+I'm a **3rd Year B.Tech Computer Science & Engineering** student who enjoys building scalable web applications, designing modern user experiences, and exploring the future of AI through Agentic AI systems.
+
+<p>
+<a href="https://neel-xdev-ipu2.vercel.app/">Portfolio</a> •
+<a href="https://linkedin.com/in/neelabh-shukla-45b88a2a5">LinkedIn</a> •
+<a href="https://github.com/neelabhshukla018">GitHub</a> •
+<a href="https://leetcode.com/u/sirneelabhshuklaji/">LeetCode</a>
 </p>
 
-<p align="center">
-  <a href="https://neel-xdev-ipu2.vercel.app/">Portfolio</a> •
-  <a href="https://linkedin.com/in/neelabh-shukla-45b88a2a5">LinkedIn</a> •
-  <a href="https://leetcode.com/u/sirneelabhshuklaji/">LeetCode</a>
-</p>
+</div>
 
 ---
 
-## ⚡ What I Work With
+# 💻 Tech Stack
 
-**Languages**
-`Java` `JavaScript` `TypeScript` `C` `C++`
+## Frontend
 
-**Frontend**
-`HTML` `CSS` `React.js` `Next.js` `Tailwind CSS`
-
-**Backend**
-`Node.js` `Express.js` `REST APIs`
-
-**Databases**
-`MongoDB` `PostgreSQL` `MySQL` `Prisma`
-
-**Tools**
-`Git` `GitHub` `VS Code` `Vite` `Figma` `Postman`
-
-Currently exploring **Agentic AI** and improving my **DSA with Java**.
+* React.js
+* Next.js
+* JavaScript
+* TypeScript
+* HTML5
+* CSS3
+* Tailwind CSS
+* Bootstrap
 
 ---
 
-## 🚀 Featured Project
+## Backend
 
-### DESPIRE — AI-Powered Blogging Platform
-
-A full-stack blogging platform built to create, manage, and explore content with AI-powered features.
-
-**Tech Stack**
-
-`React.js` • `Node.js` • `Express.js` • `MongoDB` • `Tailwind CSS` • `Clerk` • `Cloudinary`
-
-**→ [Live Project](https://despire-blogsmt.netlify.app/)**
-**→ [GitHub Repository](YOUR_DESPIRE_GITHUB_REPOSITORY_LINK)**
+* Node.js
+* Express.js
+* REST APIs
+* Authentication (JWT, Clerk)
+* Cloudinary
+* Razorpay
+* Socket.IO
 
 ---
 
-## 🧠 Coding
+## Databases & ORM
 
-<p align="center">
-  <a href="https://leetcode.com/u/sirneelabhshuklaji/">
-    <img src="https://leetcard.jacoblin.cool/sirneelabhshuklaji?theme=dark&font=Kreon&ext=activity" alt="LeetCode Stats"/>
-  </a>
-</p>
+* PostgreSQL
+* MongoDB
+* MySQL
+* Prisma ORM
+* Neon Database
 
 ---
 
-## 🌐 Find Me
+## Deployment & Cloud
 
-<p align="center">
-  <a href="https://linkedin.com/in/neelabh-shukla-45b88a2a5">LinkedIn</a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/neelabhshukla018">GitHub</a>
-  &nbsp; • &nbsp;
-  <a href="https://leetcode.com/u/sirneelabhshuklaji/">LeetCode</a>
-  &nbsp; • &nbsp;
-  <a href="https://neel-xdev-ipu2.vercel.app/">Portfolio</a>
-  &nbsp; • &nbsp;
-  <a href="https://www.instagram.com/arjun_dream_1845/">Instagram</a>
-</p>
+* Vercel
+* Netlify
+* Render
+* AWS
+* GitHub Pages
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=neelabhshukla018&label=Profile%20Views&style=flat" alt="Profile Views"/>
-</p>
+---
 
-<p align="center">
-  <b>Building. Learning. Improving. 🚀</b>
-</p>
+## Tools
+
+* Git
+* GitHub
+* VS Code
+* Postman
+* Figma
+* Vite
+* npm
+
+---
+
+# 🚀 Featured Project
+
+## DESPIRE — AI-Powered Blogging Platform
+
+DESPIRE is a modern full-stack blogging platform that combines AI-powered content creation with a clean writing experience. It includes authentication, image uploads, responsive UI, and premium blogging features.
+
+### Tech Stack
+
+| Frontend     | Backend    | Database   | Deployment |
+| ------------ | ---------- | ---------- | ---------- |
+| React.js     | Node.js    | MongoDB    | Netlify    |
+| Tailwind CSS | Express.js | Prisma     | Render     |
+| JavaScript   | REST API   | Cloudinary |            |
+
+### 🔗 Links
+
+**🌐 Live Website**
+
+https://despire-blogsmt.netlify.app/
+
+**📂 GitHub Repository**
+
+https://github.com/neelabhshukla018/YOUR_REPOSITORY
+
+---
+
+# 📈 Currently Learning
+
+* Agentic AI
+* AI Workflows & Automation
+* System Design
+* Cloud Technologies
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/neelabhshukla018">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/neelabh-shukla-45b88a2a5">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://neel-xdev-ipu2.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-F7931E?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/sirneelabhshuklaji/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.instagram.com/arjun_dream_1845/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=neelabhshukla018\&show_icons=true\&theme=transparent\&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=neelabhshukla018\&theme=transparent\&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=neelabhshukla018\&layout=compact\&theme=transparent\&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=neelabhshukla018\&label=Profile+Views\&style=flat-square)
+
+### *"Build. Learn. Share. Repeat."* 🚀
+
+</div>
