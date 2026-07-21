@@ -98,25 +98,7 @@ https://github.com/neelabhshukla018/Despiree-_Blogs
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=neelabhshukla018&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelabhshukla018&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=neelabhshukla018&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
+### 🧠 LeetCode Stats <p align="center"> <img src="https://leetcard.jacoblin.cool/sirneelabhshuklaji?theme=radical&font=Kreon&ext=activity" alt="LeetCode Stats"/> </p> ---
 
 # 🧠 LeetCode Stats
 
@@ -132,6 +114,8 @@ https://github.com/neelabhshukla018/Despiree-_Blogs
 
 ---
 
+<h3 align="center">Thanks for visiting my profile! 🌟</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=neelabhshukla018&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p> <p align="center"> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" /> </p>
+---
 # 🌐 Connect With Me
 
 <p align="center">
