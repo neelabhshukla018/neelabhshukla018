@@ -1,1 +1,84 @@
-<h1 align="center">HI 👋, I'm ℕ𝕖𝕖𝕝𝕒𝕓𝕙 𝕊𝕙𝕦𝕜𝕝𝕒...</h1> <h3 align="center">MERN Stack Developer </h3> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7931E&center=true&vCenter=true&width=435&lines=Agentic+AI+Learner;Learning+REST+API;Loves+Frontend+Crafting;Java+Developer;+%F0%9F%94%A5;Learning+Full+Stack+Every+Day" alt="Typing SVG" /> </p> --- ### 🔧 Tech Stack & Tools <p align="center"> <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cpp,html,css,react,nextjs,bootstrap,tailwind,nodejs,express,mongodb,mysql,postgres,prisma,git,github,vscode,vite,npm,figma,postman,vercel,netlify&perline=9" /> </p> --- ### 🌍 Connect with Me <p align="center"> <a href="https://linkedin.com/in/neelabh-shukla-45b88a2a5"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://neel-xdev-ipu2.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox-browser&logoColor=orange" /></a> <a href="https://leetcode.com/u/sirneelabhshuklaji/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a> <a href="https://www.instagram.com/arjun_dream_1845/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> </p> --- ### 🧠 LeetCode Stats <p align="center"> <img src="https://leetcard.jacoblin.cool/sirneelabhshuklaji?theme=radical&font=Kreon&ext=activity" alt="LeetCode Stats"/> </p> --- ### 💼 Projects Work In Progress... Dropping Soon......Stay Tuned...... --- ### ✨ Fun with Code <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&lines=Coffee+%2B+Code+%3D+Perfect+Combo+%E2%98%95;Let's+Build+Beautiful+UIs+Together!;Coding+is+My+Happy+Place+%F0%9F%8C%8D" /> </p> --- ### 💡 Quote of the Day > *"Leave your ego at the door. In code and life, success favors the one who listens, learns, and evolves."* --- <h3 align="center">Thanks for visiting my profile! 🌟</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=neelabhshukla018&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p> <p align="center"> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" /> </p>
+<h1 align="center">Hi 👋, I'm Neelabh Shukla</h1>
+
+<h3 align="center">Full-Stack Developer • Java & DSA • Exploring Agentic AI</h3>
+
+<p align="center">
+  I build responsive web applications, work with APIs & databases,<br/>
+  and enjoy turning ideas into real-world projects.
+</p>
+
+<p align="center">
+  <a href="https://neel-xdev-ipu2.vercel.app/">Portfolio</a> •
+  <a href="https://linkedin.com/in/neelabh-shukla-45b88a2a5">LinkedIn</a> •
+  <a href="https://leetcode.com/u/sirneelabhshuklaji/">LeetCode</a>
+</p>
+
+---
+
+## ⚡ What I Work With
+
+**Languages**
+`Java` `JavaScript` `TypeScript` `C` `C++`
+
+**Frontend**
+`HTML` `CSS` `React.js` `Next.js` `Tailwind CSS`
+
+**Backend**
+`Node.js` `Express.js` `REST APIs`
+
+**Databases**
+`MongoDB` `PostgreSQL` `MySQL` `Prisma`
+
+**Tools**
+`Git` `GitHub` `VS Code` `Vite` `Figma` `Postman`
+
+Currently exploring **Agentic AI** and improving my **DSA with Java**.
+
+---
+
+## 🚀 Featured Project
+
+### DESPIRE — AI-Powered Blogging Platform
+
+A full-stack blogging platform built to create, manage, and explore content with AI-powered features.
+
+**Tech Stack**
+
+`React.js` • `Node.js` • `Express.js` • `MongoDB` • `Tailwind CSS` • `Clerk` • `Cloudinary`
+
+**→ [Live Project](https://despire-blogsmt.netlify.app/)**
+**→ [GitHub Repository](YOUR_DESPIRE_GITHUB_REPOSITORY_LINK)**
+
+---
+
+## 🧠 Coding
+
+<p align="center">
+  <a href="https://leetcode.com/u/sirneelabhshuklaji/">
+    <img src="https://leetcard.jacoblin.cool/sirneelabhshuklaji?theme=dark&font=Kreon&ext=activity" alt="LeetCode Stats"/>
+  </a>
+</p>
+
+---
+
+## 🌐 Find Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/neelabh-shukla-45b88a2a5">LinkedIn</a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/neelabhshukla018">GitHub</a>
+  &nbsp; • &nbsp;
+  <a href="https://leetcode.com/u/sirneelabhshuklaji/">LeetCode</a>
+  &nbsp; • &nbsp;
+  <a href="https://neel-xdev-ipu2.vercel.app/">Portfolio</a>
+  &nbsp; • &nbsp;
+  <a href="https://www.instagram.com/arjun_dream_1845/">Instagram</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=neelabhshukla018&label=Profile%20Views&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <b>Building. Learning. Improving. 🚀</b>
+</p>
