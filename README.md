@@ -105,9 +105,9 @@ const neelabh = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=neelabhshukla018&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" height="180"/>
+<img src="./profile/stats.svg" height="180" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelabhshukla018&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180"/>
+<img src="./profile/top-langs.svg" height="180" alt="Top Languages"/>
 
 </div>
 
