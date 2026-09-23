@@ -105,9 +105,9 @@ const neelabh = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=neelabhshukla018&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=neelabhshukla018&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelabhshukla018&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelabhshukla018&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180"/>
 
 </div>
 
@@ -118,8 +118,6 @@ const neelabh = {
 <img src="https://streak-stats.demolab.com?user=neelabhshukla018&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
 
 ---
 
@@ -141,11 +139,21 @@ const neelabh = {
 
 <div align="center">
 
-<img 
-  src="https://raw.githubusercontent.com/neelabhshukla018/neelabhshukla018/output/github-contribution-grid-snake-dark.svg"
-  alt="GitHub Contribution Snake"
-  width="100%"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/neelabhshukla018/neelabhshukla018/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/neelabhshukla018/neelabhshukla018/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/neelabhshukla018/neelabhshukla018/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</picture>
 
 </div>
 
