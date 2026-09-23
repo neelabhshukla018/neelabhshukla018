@@ -158,15 +158,7 @@ const neelabh = {
 
 <br/>
 
-<div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=neelabhshukla018&theme=tokyo-night&hide_border=true&area=true"
-  width="100%"
-  alt="Neelabh's GitHub Activity Graph"
-/>
-
-</div>
 ---
 
 
