@@ -145,7 +145,11 @@ const neelabh = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/neelabhshukla018/neelabhshukla018/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
+<img 
+  src="https://raw.githubusercontent.com/neelabhshukla018/neelabhshukla018/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+  width="100%"
+/>
 
 </div>
 
