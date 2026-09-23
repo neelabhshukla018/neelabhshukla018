@@ -120,14 +120,21 @@ const neelabh = {
 
 ---
 
-
 # 📊 GitHub Stats
 
 <div align="center">
 
-<img src="./profile/stats.svg" height="180" alt="GitHub Stats"/>
+<img 
+  src="./profile/stats.svg" 
+  height="180" 
+  alt="Neelabh's GitHub Stats"
+/>
 
-<img src="./profile/top-langs.svg" height="180" alt="Top Languages"/>
+<img 
+  src="./profile/top-langs.svg" 
+  height="180" 
+  alt="Neelabh's Top Languages"
+/>
 
 </div>
 
@@ -135,10 +142,38 @@ const neelabh = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=neelabhshukla018&theme=tokyonight&hide_border=true" />
+<img 
+  src="https://streak-stats.demolab.com?user=neelabhshukla018&theme=tokyonight&hide_border=true"
+  alt="Neelabh's GitHub Streak"
+/>
 
 </div>
 
+---
+
+# 🟩 GitHub Contributions
+
+<div align="center">
+
+<img 
+  src="https://ghchart.rshah.org/38B13C/neelabhshukla018" 
+  alt="Neelabh's GitHub Contributions"
+  width="100%"
+/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=neelabhshukla018&theme=tokyo-night&hide_border=true&area=true"
+  width="100%"
+  alt="Neelabh's GitHub Activity Graph"
+/>
+
+</div>
 ---
 
 # 🟩 GitHub Contributions
