@@ -31,206 +31,112 @@ const neelabh = {
     role: "Full-Stack Developer",
     education: "B.Tech CSE — 3rd Year",
     university: "Shri Ramswaroop Memorial University",
-    currentlyLearning: ["Agentic AI", "DSA", "System Design"],
-    languages: ["Java", "JavaScript", "TypeScript", "C", "C++"],
-    frontend: ["React", "Next.js", "Tailwind CSS"],
-    backend: ["Node.js", "Express.js", "REST APIs"],
-    databases: ["MongoDB", "PostgreSQL", "MySQL"],
+
+    currentlyLearning: [
+        "Agentic AI",
+        "DSA",
+        "System Design"
+    ],
+
+    languages: [
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "C",
+        "C++"
+    ],
+
+    frontend: [
+        "React",
+        "Next.js",
+        "Tailwind CSS"
+    ],
+
+    backend: [
+        "Node.js",
+        "Express.js",
+        "REST APIs"
+    ],
+
+    databases: [
+        "MongoDB",
+        "PostgreSQL",
+        "MySQL"
+    ],
+
     goal: "Build useful products and keep learning 🚀"
 };
-```
+🎓 3rd Year B.Tech Computer Science & Engineering student
+💻 Full-Stack Developer passionate about building modern web applications
+🤖 Currently learning Agentic AI
+🧠 Practicing DSA & problem solving
+☁️ Exploring scalable backend systems and cloud technologies
+🚀 Always building, learning and improving
+⚡ Tech Stack
+💻 Languages
+<p> <img src="https://skillicons.dev/icons?i=java,js,ts,c,cpp&theme=dark" /> </p>
+🎨 Frontend
+<p> <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=dark" /> </p>
+⚙️ Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" /> <img src="https://img.shields.io/badge/REST_API-111827?style=for-the-badge" /> <img src="https://img.shields.io/badge/JWT-111827?style=for-the-badge" /> <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" /> <img src="https://img.shields.io/badge/Socket.IO-111827?style=for-the-badge&logo=socketdotio&logoColor=white" /> </p>
+🗄️ Database & ORM
+<p> <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma&theme=dark" /> <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" /> </p>
+☁️ Deployment & Cloud
+<p> <img src="https://skillicons.dev/icons?i=vercel,netlify,aws&theme=dark" /> <img src="https://img.shields.io/badge/Render-111827?style=for-the-badge&logo=render&logoColor=white" /> </p>
+🛠️ Tools
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vite,npm&theme=dark" /> </p>
+📊 GitHub Stats
+<p align="center">
 
-* 🎓 3rd Year **B.Tech Computer Science & Engineering** student
-* 💻 Full-Stack Developer passionate about building modern web applications
-* 🤖 Currently learning **Agentic AI**
-* 🧠 Practicing **DSA & problem solving**
-* ☁️ Exploring scalable backend systems and cloud technologies
-* 🚀 Always building, learning and improving
+<img src="https://github-readme-stats.vercel.app/api?username=neelabhshukla018&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelabhshukla018&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 
-# ⚡ Tech Stack
-
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,ts,c,cpp&theme=dark" />
-</p>
-
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=dark" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-
-<img src="https://img.shields.io/badge/REST_API-111827?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/JWT-111827?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Socket.IO-111827?style=for-the-badge&logo=socketdotio&logoColor=white" />
-</p>
-
-### 🗄️ Database & ORM
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma&theme=dark" />
-
-<img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" />
-</p>
-
-### ☁️ Deployment & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=vercel,netlify,aws&theme=dark" />
-
-<img src="https://img.shields.io/badge/Render-111827?style=for-the-badge&logo=render&logoColor=white" />
-</p>
-
-### 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vite,npm&theme=dark" />
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=neelabhshukla018&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelabhshukla018&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
-<br/>
-
-<div align="center">
+</p> <br/> <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=neelabhshukla018&theme=tokyonight&hide_border=true" />
 
-</div>
+</p>
+🟩 GitHub Contributions
+<p align="center">
 
----
+<img src="https://ghchart.rshah.org/38B13C/neelabhshukla018" alt="Neelabh's GitHub Contribution Calendar" width="100%" />
 
-# 🟩 GitHub Contributions
+</p>
+🐍 Contribution Snake
+<p align="center">
 
+<img src="https://raw.githubusercontent.com/neelabhshukla018/neelabhshukla018/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+
+</p>
+🧠 LeetCode
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/sirneelabhshuklaji?theme=dark&font=Kreon&ext=activity" alt="LeetCode Stats" width="700" />
+
+</p>
+🎯 Currently Learning
+🤖 Agentic AI	🧠 DSA	⚡ Next.js	☁️ Cloud
+AI Agents	Data Structures	App Router	Deployment
+AI Workflows	Algorithms	Full-Stack Apps	Cloud Services
+LLM Applications	Problem Solving	Backend Architecture	Scalable Systems
+🏆 What I'm Working Towards
+🤖 Building AI-powered applications
+🧠 Improving DSA and problem-solving skills
+🏗️ Designing scalable full-stack systems
+🌐 Building real-world products
+☁️ Learning modern cloud technologies
+🔓 Contributing more to open-source
+🚀 Exploring the future of Agentic AI
+🌐 Connect With Me
+<p align="center"> <a href="https://github.com/neelabhshukla018"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://linkedin.com/in/neelabh-shukla-45b88a2a5"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://neel-xdev-ipu2.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="https://leetcode.com/u/sirneelabhshuklaji/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> <a href="https://www.instagram.com/arjun_dream_1845/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </p>
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=neelabhshukla018&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
-
-# 📅 Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/38B13C/neelabhshukla018" width="100%" alt="GitHub Contribution Calendar" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/neelabhshukla018/neelabhshukla018/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
-# 🧠 LeetCode
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/sirneelabhshuklaji?theme=dark&font=Kreon&ext=activity" width="700" alt="LeetCode Stats" />
-
-</div>
-
----
-
-# 🎯 Currently Learning
-
-<div align="center">
-
-|   🤖 Agentic AI  |      🧠 DSA     |
-| :--------------: | :-------------: |
-|     AI Agents    | Data Structures |
-|   AI Workflows   |    Algorithms   |
-| LLM Applications | Problem Solving |
-
-|        ⚡ Next.js        |     ☁️ Cloud     |
-| :---------------------: | :--------------: |
-|   Advanced App Router   |    Deployment    |
-|   Backend Architecture  | Scalable Systems |
-| Full-Stack Applications |  Cloud Services  |
-
-</div>
-
----
-
-# 🏆 What I'm Working Towards
-
-* 🤖 Building AI-powered applications
-* 🧠 Improving DSA and problem-solving skills
-* 🏗️ Designing scalable full-stack systems
-* 🌐 Building real-world products
-* ☁️ Learning modern cloud technologies
-* 🔓 Contributing more to open-source
-* 🚀 Exploring the future of Agentic AI
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/neelabhshukla018">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/neelabh-shukla-45b88a2a5">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://neel-xdev-ipu2.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/sirneelabhshuklaji/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.instagram.com/arjun_dream_1845/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 *"Build. Learn. Break. Improve. Repeat."*
-
+💭 "Build. Learn. Break. Improve. Repeat."
 <br/>
 
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="140" />
 
 <br/><br/>
 
-### ⭐ Thanks for visiting my profile!
-
-</div>
+⭐ Thanks for visiting my profile!
+</div> ```
