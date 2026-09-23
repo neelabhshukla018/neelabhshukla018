@@ -8,18 +8,6 @@
 
 <br/>
 
-<!-- HACKER STYLE PROFILE LOADER -->
-<img
-  src="./assets/neelabh%27sLinkedin.png"
-  width="300"
-  alt="Neelabh Shukla"
-/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=neelabhshukla018&label=Profile%20Views&style=for-the-badge&color=0e75b6" />
-
-<br/><br/>
 
 <a href="https://github.com/neelabhshukla018">
 <img src="https://img.shields.io/github/followers/neelabhshukla018?label=Followers&style=for-the-badge&logo=github"/>
