@@ -121,21 +121,17 @@ const neelabh = {
 
 ---
 
+---
+
 # 🟩 GitHub Contributions
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=neelabhshukla018&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
-
-# 📅 Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/38B13C/neelabhshukla018" width="100%" alt="GitHub Contribution Calendar" />
+<img 
+  src="https://ghchart.rshah.org/38B13C/neelabhshukla018" 
+  alt="Neelabh's GitHub Contributions"
+  width="100%"
+/>
 
 </div>
 
