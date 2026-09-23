@@ -8,6 +8,15 @@
 
 <br/>
 
+<!-- HACKER STYLE PROFILE LOADER -->
+<img
+  src="./assets/profile-loader.gif"
+  width="700"
+  alt="Neelabh Shukla - Hacker Style Profile Loader"
+/>
+
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=neelabhshukla018&label=Profile%20Views&style=for-the-badge&color=0e75b6" />
 
 <br/><br/>
