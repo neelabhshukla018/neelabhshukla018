@@ -176,19 +176,6 @@ const neelabh = {
 </div>
 ---
 
-# 🟩 GitHub Contributions
-
-<div align="center">
-
-<img 
-  src="https://ghchart.rshah.org/38B13C/neelabhshukla018" 
-  alt="Neelabh's GitHub Contributions"
-  width="100%"
-/>
-
-</div>
-
----
 
 
 # 🧠 LeetCode
