@@ -10,9 +10,9 @@
 
 <!-- HACKER STYLE PROFILE LOADER -->
 <img
-  src="./assets/profile-loader.gif"
-  width="700"
-  alt="Neelabh Shukla - Hacker Style Profile Loader"
+  src="./assets/neelabh%27sLinkedin.png"
+  width="300"
+  alt="Neelabh Shukla"
 />
 
 <br/><br/>
