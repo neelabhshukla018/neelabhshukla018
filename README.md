@@ -140,14 +140,7 @@ const neelabh = {
 
 <br/>
 
-<div align="center">
 
-<img 
-  src="https://streak-stats.demolab.com?user=neelabhshukla018&theme=tokyonight&hide_border=true"
-  alt="Neelabh's GitHub Streak"
-/>
-
-</div>
 
 ---
 
