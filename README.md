@@ -124,15 +124,15 @@ const neelabh = {
 
 <div align="center">
 
-<img 
-  src="./profile/stats.svg" 
-  height="180" 
+<img
+  src="https://github-readme-stats.vercel.app/api?username=neelabhshukla018&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  height="180"
   alt="Neelabh's GitHub Stats"
 />
 
-<img 
-  src="./profile/top-langs.svg" 
-  height="180" 
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelabhshukla018&layout=compact&theme=tokyonight&hide_border=true"
+  height="180"
   alt="Neelabh's Top Languages"
 />
 
