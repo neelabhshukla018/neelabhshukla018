@@ -122,23 +122,6 @@ const neelabh = {
 
 # 📊 GitHub Stats
 
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=neelabhshukla018&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-  height="180"
-  alt="Neelabh's GitHub Stats"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelabhshukla018&layout=compact&theme=tokyonight&hide_border=true"
-  height="180"
-  alt="Neelabh's Top Languages"
-/>
-
-</div>
-
-<br/>
 
 <div align="center">
 
