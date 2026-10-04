@@ -39,9 +39,7 @@
 
 </p>
 
-<p align="center">
-  <b>GSSoC 2026 Contributor</b> • <b>1,650 Points</b> • <b>Top 8%</b>
-</p>
+
 
 <br/>
 
