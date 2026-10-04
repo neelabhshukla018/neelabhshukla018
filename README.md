@@ -23,8 +23,6 @@
 
 <h2 align="center">🏆 GSSoC 2026 Achievements</h2>
 
-## 🏆 GSSoC 2026 Achievements
-
 <p align="center">
 
   <a href="https://gssoc.girlscript.org/profile/5188220f-4722-40d3-bc88-6f8492cff615">
