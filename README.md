@@ -23,6 +23,8 @@
 
 <h2 align="center">🏆 GSSoC 2026 Achievements</h2>
 
+## 🏆 GSSoC 2026 Achievements
+
 <p align="center">
 
   <a href="https://gssoc.girlscript.org/profile/5188220f-4722-40d3-bc88-6f8492cff615">
@@ -42,6 +44,29 @@
 <p align="center">
   <b>GSSoC 2026 Contributor</b> • <b>1,650 Points</b> • <b>Top 8%</b>
 </p>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="./smartly-labs-certificate_page-0001.jpg"
+        alt="Smartly Labs Certificate"
+        width="420"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="./GSSoC-2026-Certificate_page-0001.jpg"
+        alt="GSSoC 2026 Certificate"
+        width="420"
+      />
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 # 👨‍💻 About Me
 
