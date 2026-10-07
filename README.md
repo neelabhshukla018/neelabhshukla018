@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <b>GSSoC 2026 Contributor</b> • <b>2,375 Points</b> • <b>Top 3%</b>
+  <b>GSSoC 2026 Contributor</b> • <b>2,375 Points</b> • <b>Top 2%</b>
 </p>
 
 
