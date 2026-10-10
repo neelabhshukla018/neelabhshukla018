@@ -84,7 +84,7 @@ const neelabh = {
 ```
 
 *  3rd Year **B.Tech Computer Science & Engineering** student
-* 💻 Full-Stack Developer passionate about building modern web applications
+*  Full-Stack Developer passionate about building modern web applications
 * 🤖 Currently learning **Agentic AI**
 * 🧠 Practicing **DSA & problem solving**
 * ☁️ Exploring scalable backend systems and cloud technologies
