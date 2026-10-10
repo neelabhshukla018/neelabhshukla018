@@ -79,7 +79,7 @@ const neelabh = {
     frontend: ["React", "Next.js", "Tailwind CSS"],
     backend: ["Node.js", "Express.js", "REST APIs"],
     databases: ["MongoDB", "PostgreSQL", "MySQL"],
-    goal: "Build useful products and keep learning 🚀"
+    goal: "Build useful products and keep learning "
 };
 ```
 
