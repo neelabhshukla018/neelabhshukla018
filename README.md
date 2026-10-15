@@ -21,7 +21,7 @@
 
 ---
 
-<h2 align="center">🏆 GSSoC 2026 Achievements</h2>
+<h2 align="center">🏆 GSSoC-2026 Achievements</h2>
 
 <p align="center">
 
