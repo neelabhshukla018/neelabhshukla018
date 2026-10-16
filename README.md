@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **Neelabh_Shukla**
+# 👋 Hi, I'm **Neelabh Shukla**
 
 ### `Full-Stack Developer` • `Agentic AI Learner` • `Problem Solver`
 
