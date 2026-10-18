@@ -87,7 +87,7 @@ const neelabh = {
 *  Full-Stack Developer passionate about building modern web applications
 *  Currently learning **Agentic AI**
 *  Practicing **DSA & problem solving**
-* ☁️ Exploring scalable backend systems and cloud technologies
+*  Exploring scalable backend systems and cloud technologies
 * 🚀 Always building, learning and improving
 
 ---
