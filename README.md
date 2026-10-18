@@ -67,7 +67,7 @@
 
 <br/>
 
-# 👨‍💻 About Me
+#  About Me
 
 ```js
 const neelabh = {
