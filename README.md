@@ -222,7 +222,7 @@ const neelabh = {
 <tr>
 <td align="center" width="50%">
 
-###  Agentic AI
+### 🕸️ Agentic AI
 
 `AI Agents` · `LLM Applications`
 
@@ -231,14 +231,13 @@ const neelabh = {
 </td>
 <td align="center" width="50%">
 
-### Advanced Full-Stack 
+### 🕷️Advanced Full-Stack 
 
 
 `Frontend & Backend` · `REST APIs`
 
 `Authentication` · `System Integration`
 
-`Building Scalable web applications`
 
 </td>
 </tr>
