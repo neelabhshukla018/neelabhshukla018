@@ -373,39 +373,23 @@ A modern blogging platform combining AI-powered content creation, publishing, an
 
 
 
-
-## 🧠 LeetCode & Coding Activity
+## 🧠 LeetCode
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center" valign="middle">
-
-### 🧩 LeetCode Stats
-
 <a href="https://leetcode.com/u/sirneelabhshuklaji/">
-<img src="https://leetcard.jacoblin.cool/sirneelabhshuklaji?theme=dark&font=Kreon" width="100%" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/sirneelabhshuklaji?theme=dark&font=Kreon&ext=activity" width="420" alt="LeetCode Statistics"/>
 </a>
 
-</td>
-<td width="50%" align="center" valign="middle">
-
-### 🟩 Submission Heatmap
+<br/>
 
 <a href="https://leetcode.com/u/sirneelabhshuklaji/">
-<img src="https://leetcode-calander-svg.vercel.app/sirneelabhshuklaji" width="100%" alt="LeetCode Green Activity Heatmap"/>
+  <img src="https://img.shields.io/badge/VIEW_PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="View LeetCode Profile"/>
 </a>
-
-</td>
-</tr>
-</table>
 
 </div>
 
 ---
-
-
 
 
 # 🌐 Connect With Me
