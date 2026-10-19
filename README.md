@@ -234,7 +234,7 @@ const neelabh = {
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://www.instagram.com/arjun_dream_1845/">
+<a href="https://www.instagram.com/satyam_shukla_1845/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
