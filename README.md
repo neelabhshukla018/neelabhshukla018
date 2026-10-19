@@ -101,7 +101,7 @@
 
 ### `> developer.config`
 
-
+```yaml
 name: Neelabh Shukla
 title: Full-Stack Developer
 focus: Building Scalable Web Applications
@@ -124,7 +124,7 @@ education:
   university: Shri Ramswaroop Memorial University
 
 mindset: Build. Solve. Innovate.
-
+```
 
 </td>
 
