@@ -86,7 +86,6 @@ const neelabh = {
 ---
 
 
-<div align="center">
 # ⚡ Tech Stack
 
 <div align="center">
