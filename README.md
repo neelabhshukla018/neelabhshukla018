@@ -208,71 +208,6 @@ const neelabh = {
 <tr>
 <td width="50%" valign="top" align="center">
 
-<h3>🌆 naXity</h3>
-
-<!-- Replace with your project screenshot URL -->
-<a href="YOUR_NAXITY_LIVE_LINK">
-<img src="YOUR_NAXITY_IMAGE_URL" width="100%" alt="naXity Project Preview"/>
-</a>
-
-AI-powered urban mobility and smart-city intelligence, bringing navigation and city services together.
-
-**Tech Stack**
-
-`Next.js` `TypeScript` `Node.js` `PostgreSQL`
-
-<table>
-<tr>
-<td align="center">
-<a href="YOUR_NAXITY_LIVE_LINK">
-<img src="https://img.shields.io/badge/🚀_Try_Now-8B5CF6?style=for-the-badge" alt="Try Now"/>
-</a>
-</td>
-<td align="center">
-<a href="YOUR_NAXITY_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/💻_See_Code-24292F?style=for-the-badge&logo=github&logoColor=white" alt="See Code"/>
-</a>
-</td>
-</tr>
-</table>
-
-</td>
-<td width="50%" valign="top" align="center">
-
-<h3>🎵 musX</h3>
-
-<!-- Replace with your project screenshot URL -->
-<a href="YOUR_MUSX_LIVE_LINK">
-<img src="YOUR_MUSX_IMAGE_URL" width="100%" alt="musX Project Preview"/>
-</a>
-
-A modern music player focused on personalized discovery and AI-powered song recommendations.
-
-**Tech Stack**
-
-`Next.js` `TypeScript` `Tailwind CSS`
-
-<table>
-<tr>
-<td align="center">
-<a href="YOUR_MUSX_LIVE_LINK">
-<img src="https://img.shields.io/badge/🚀_Try_Now-8B5CF6?style=for-the-badge" alt="Try Now"/>
-</a>
-</td>
-<td align="center">
-<a href="YOUR_MUSX_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/💻_See_Code-24292F?style=for-the-badge&logo=github&logoColor=white" alt="See Code"/>
-</a>
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top" align="center">
-
 <h3>✍️ DESPIRE</h3>
 
 <!-- Replace with your project screenshot URL -->
@@ -281,8 +216,6 @@ A modern music player focused on personalized discovery and AI-powered song reco
 </a>
 
 An AI blogging platform combining content creation, publishing, and media management.
-
-**Tech Stack**
 
 `React` `Node.js` `MongoDB` `Cloudinary`
 
@@ -301,40 +234,6 @@ An AI blogging platform combining content creation, publishing, and media manage
 </tr>
 </table>
 
-</td>
-<td width="50%" valign="top" align="center">
-
-<h3>🌍 TRAVENTURE</h3>
-
-<!-- Replace with your project screenshot URL -->
-<a href="YOUR_TRAVENTURE_LIVE_LINK">
-<img src="YOUR_TRAVENTURE_IMAGE_URL" width="100%" alt="TRAVENTURE Project Preview"/>
-</a>
-
-A travel platform concept focused on destination discovery and a convenient trip-planning experience.
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript`
-
-<table>
-<tr>
-<td align="center">
-<a href="YOUR_TRAVENTURE_LIVE_LINK">
-<img src="https://img.shields.io/badge/🚀_Try_Now-8B5CF6?style=for-the-badge" alt="Try Now"/>
-</a>
-</td>
-<td align="center">
-<a href="YOUR_TRAVENTURE_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/💻_See_Code-24292F?style=for-the-badge&logo=github&logoColor=white" alt="See Code"/>
-</a>
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
 
 </div>
 
