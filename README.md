@@ -44,11 +44,7 @@
 </p>
 
 
-<br/>
-
 <div align="center">
-
-<h2>🏆 My Certificates</h2>
 
 <table>
 <tr>
