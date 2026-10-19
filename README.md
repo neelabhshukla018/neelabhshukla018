@@ -88,25 +88,26 @@
 
 
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me & ⚡ Tech Stack
 
 <div align="center">
 
 <table>
 <tr>
-<td>
+<!-- LEFT: ABOUT ME -->
+<td width="38%" valign="top" align="center">
+
+### 👨‍💻 About Me
 
 ```yaml
-# developer.config
-
 name: Neelabh Shukla
 role: Full-Stack Developer
 education: B.Tech CSE | 3rd Year
 
 interests:
   - Agentic AI & LLMs
-  - Advanced Full-Stack Development
-  - System Design (LLD & HLD)
+  - Advanced Full-Stack
+  - System Design (LLD/HLD)
   - DevOps & Cloud
 
 languages:
@@ -115,104 +116,61 @@ languages:
   - TypeScript
   - C / C++
 
-mission: >
-  Build useful products, solve real-world
-  problems, and never stop learning.
+mission: Build. Learn. Innovate.
 ```
 
+<br/>
+
+**🌱 Always building something new.**
+
+</td>
+
+<!-- RIGHT: TECH STACK -->
+<td width="62%" valign="top" align="center">
+
+### ⚡ Tech Stack
+
+**💻 Languages**
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,c,cpp&theme=dark" alt="Languages"/>
+
+**🎨 Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=dark" alt="Frontend"/>
+
+**⚙️ Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend"/>
+
+<img src="https://img.shields.io/badge/REST_API-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/JWT-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.IO-111827?style=flat-square&logo=socketdotio&logoColor=white"/>
+
+**🗄️ Database & ORM**
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma&theme=dark" alt="Databases"/>
+
+<img src="https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black"/>
+
+**☁️ Cloud & Tools**
+
+<img src="https://skillicons.dev/icons?i=vercel,netlify,aws,git,github,vscode,figma,postman,vite,npm&theme=dark" alt="Cloud and developer tools"/>
+
+<img src="https://img.shields.io/badge/Render-111827?style=flat-square&logo=render&logoColor=white"/>
+
 </td>
 </tr>
 </table>
 
 <br/>
-
-<img src="https://skillicons.dev/icons?i=java,js,ts,cpp,react,nextjs,nodejs,express,mongodb,postgres,docker,aws&theme=dark" alt="Developer technology stack"/>
-
-</div>
-
----
-
-
-# ⚡ Tech Stack
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=java,js,ts,c,cpp&theme=dark" />
-
-</td>
-<td align="center" width="50%">
-
-### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=dark" />
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%">
-
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/REST_API-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/JWT-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
-<img src="https://img.shields.io/badge/Socket.IO-111827?style=flat-square&logo=socketdotio&logoColor=white" />
-
-</td>
-<td align="center" width="50%">
-
-### 🗄️ Database & ORM
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma&theme=dark" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black" />
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%">
-
-### ☁️ Deployment & Cloud
-
-<img src="https://skillicons.dev/icons?i=vercel,netlify,aws&theme=dark" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Render-111827?style=flat-square&logo=render&logoColor=white" />
-
-</td>
-<td align="center" width="50%">
-
-### 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vite,npm&theme=dark" />
-
-</td>
-</tr>
-</table>
-
-**━━━━━━━━━━ ✦ ━━━━━━━━━━**
 
 `BUILD` • `LEARN` • `INNOVATE`
 
 </div>
 
-
 ---
+
 
 # 📊 GitHub Stats
 
