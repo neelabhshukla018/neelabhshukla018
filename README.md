@@ -97,7 +97,7 @@
 <table>
 <tr>
 <!-- LEFT CARD: DEVELOPER PROFILE -->
-<td width="50%" valign="middle" align="center">
+<td width="50%" valign="middle">
 
 ### `> developer.config`
 
