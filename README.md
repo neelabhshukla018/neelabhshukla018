@@ -234,22 +234,6 @@ mindset: Build. Solve. Innovate.
 
 ---
 
-# 📊 GitHub Stats
-
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=neelabhshukla018&theme=tokyonight&hide_border=true"
-  alt="Neelabh's GitHub Streak"
-/>
-
-</div>
-
----
-
-
-
 # 🚀 Featured Projects
 
 <div align="center">
@@ -380,6 +364,8 @@ A modern blogging platform combining AI-powered content creation, publishing, an
 
 ---
 
+
+
 # 🌐 Connect With Me
 
 <div align="center">
@@ -401,6 +387,20 @@ A modern blogging platform combining AI-powered content creation, publishing, an
 <a href="https://www.instagram.com//satyam_shukla_1845/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=neelabhshukla018&theme=tokyonight&hide_border=true"
+  alt="Neelabh's GitHub Streak"
+/>
 
 </div>
 
