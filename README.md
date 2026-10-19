@@ -1,15 +1,30 @@
+
 <div align="center">
 
-# 👋 Hi, I'm **Neelabh Shukla**
-
-### `Full-Stack Developer` • `Agentic AI Learner` • `Problem Solver`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications;Learning+Agentic+AI;Turning+Ideas+Into+Products" />
+<a href="https://github.com/neelabhshukla018">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0F172A,50:312E81,100:7C3AED&text=Neelabh%20Shukla&fontColor=FFFFFF&fontSize=55&fontAlignY=42&desc=FULL-STACK%20DEVELOPER%20%7C%20AGENTIC%20AI%20LEARNER&descSize=15&descAlignY=62&animation=twinkling&stroke=8B5CF6&strokeWidth=1" alt="Neelabh Shukla animated banner"/>
+</a>
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Exploring+Agentic+AI+%26+LLMs;Designing+Scalable+Full-Stack+Systems;Learning+DSA+%26+System+Design;Turning+Ideas+Into+Products" alt="Animated typing text"/>
+
+<br/><br/>
+
+<a href="https://github.com/neelabhshukla018">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://linkedin.com/in/neelabh-shukla-45b88a2a5">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://neel-xdev-ipu2.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
 
 </div>
+
+---
+
 
 ---
 
