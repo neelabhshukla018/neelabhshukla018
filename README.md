@@ -242,9 +242,9 @@ const neelabh = {
 
 ---
 
-<br/>
+<div align="center">
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="140" />
+<img src="./assets/neelabh-footer.svg" alt="Build. Learn. Break. Improve. Repeat." width="100%" />
 
 <br/>
 
