@@ -222,8 +222,7 @@ const neelabh = {
 <tr>
 <td align="center" width="50%">
 
-## 🤖 Agentic AI
-Exploring intelligent AI systems
+### 🤖 Agentic AI
 
 `AI Agents` · `LLM Applications`
 
@@ -232,7 +231,7 @@ Exploring intelligent AI systems
 </td>
 <td align="center" width="50%">
 
-## Advanced Full-Stack Development
+### Advanced Full-Stack Development
 
 
 `Frontend & Backend` · `REST APIs`
@@ -246,8 +245,7 @@ Exploring intelligent AI systems
 <tr>
 <td align="center" width="50%">
 
-## ⚙️ DevOps & Cloud
-Exploring modern deployment practices
+### ⚙️ DevOps & Cloud
 
 `Docker` · `CI/CD`
 
@@ -256,8 +254,7 @@ Exploring modern deployment practices
 </td>
 <td align="center" width="50%">
 
-## 🏗️ System Design
-Designing maintainable, scalable systems
+### 🏗️ System Design
 
 `LLD` · `HLD`
 
