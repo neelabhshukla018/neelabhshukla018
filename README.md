@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Neelabh Shukla - Full-Stack Developer" width="100%"/>
+<img src="./header.svg" alt="Neelabh Shukla - Full-Stack Developer" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications;Learning+Agentic+AI;Turning+Ideas+Into+Products" />
 
