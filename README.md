@@ -87,54 +87,51 @@
 <br/>
 
 
+
 ## 👨‍💻 About Me
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td>
 
-### 🚀 Who I Am
+```yaml
+# developer.config
 
-Full-Stack Developer passionate about building modern web applications and solving real-world problems.
+name: Neelabh Shukla
+role: Full-Stack Developer
+education: B.Tech CSE | 3rd Year
 
-🎓 **Education**
+interests:
+  - Agentic AI & LLMs
+  - Advanced Full-Stack Development
+  - System Design (LLD & HLD)
+  - DevOps & Cloud
 
-B.Tech in Computer Science & Engineering
+languages:
+  - Java
+  - JavaScript
+  - TypeScript
+  - C / C++
 
-Shri Ramswaroop Memorial University
-
-</td>
-<td align="center" width="50%">
-
-### 🎯 My Focus
-
-🤖 Exploring Agentic AI & LLMs
-
-🧠 Practicing DSA with Java
-
-🏗️ Learning LLD & HLD
-
-⚙️ Exploring DevOps & Cloud
+mission: >
+  Build useful products, solve real-world
+  problems, and never stop learning.
+```
 
 </td>
 </tr>
 </table>
 
-### 💻 Technologies I Work With
-
-<img src="https://skillicons.dev/icons?i=java,cpp,c,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,mysql&theme=dark" alt="Technologies I work with"/>
-
 <br/>
 
-### 🌱 My Philosophy
-
-*Build meaningful projects. Learn continuously. Turn ideas into reality.*
+<img src="https://skillicons.dev/icons?i=java,js,ts,cpp,react,nextjs,nodejs,express,mongodb,postgres,docker,aws&theme=dark" alt="Developer technology stack"/>
 
 </div>
 
 ---
+
 
 # ⚡ Tech Stack
 
