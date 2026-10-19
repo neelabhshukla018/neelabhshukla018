@@ -222,7 +222,7 @@ const neelabh = {
 <tr>
 <td align="center" width="50%">
 
-### 🤖 Agentic AI
+## 🤖 Agentic AI
 Exploring intelligent AI systems
 
 `AI Agents` · `LLM Applications`
@@ -232,19 +232,21 @@ Exploring intelligent AI systems
 </td>
 <td align="center" width="50%">
 
-### 💻 Advanced Full-Stack Development
-Building scalable web applications
+## 💻 Advanced Full-Stack Development
+
 
 `Frontend & Backend` · `REST APIs`
 
 `Authentication` · `System Integration`
+
+`Building Scalable web applications`
 
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
 
-### ⚙️ DevOps & Cloud
+## ⚙️ DevOps & Cloud
 Exploring modern deployment practices
 
 `Docker` · `CI/CD`
@@ -254,7 +256,7 @@ Exploring modern deployment practices
 </td>
 <td align="center" width="50%">
 
-### 🏗️ System Design
+## 🏗️ System Design
 Designing maintainable, scalable systems
 
 `LLD` · `HLD`
@@ -266,12 +268,7 @@ Designing maintainable, scalable systems
 <tr>
 <td align="center" width="50%" colspan="2">
 
-### 🧠 DSA in Java
-Strengthening problem-solving skills
 
-`Data Structures` · `Algorithms`
-
-`LeetCode` · `Complexity Analysis`
 
 </td>
 </tr>
@@ -280,7 +277,7 @@ Strengthening problem-solving skills
 **🚀 Learn • Build • Design • Deploy • Improve**
 
 </div>
----
+
 
 # 🧠 LeetCode
 
