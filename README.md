@@ -365,7 +365,7 @@ A modern blogging platform combining AI-powered content creation, publishing, an
 ---
 
 
-# 📊 GitHub Stats & 🌐 Connect With Me
+# 📊 GitHub Stats With Me
 
 <table>
 <tr>
@@ -378,7 +378,7 @@ A modern blogging platform combining AI-powered content creation, publishing, an
 </a>
 
 </td>
-<td width="45%" align="center" valign="middle">
+<td width="65%" align="center" valign="middle">
 
 ### 🌐 Connect With Me
 
