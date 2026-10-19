@@ -89,16 +89,16 @@
 
 
 
+
 ## 👨‍💻 About Me
 
 <div align="center">
 
 <table>
 <tr>
-<!-- LEFT CARD: DEVELOPER PROFILE -->
-<td width="55%" valign="middle" align="center">
+<td width="50%" valign="middle" align="center">
 
-### `> developer.config`
+<h3 align="center">💻 developer.config</h3>
 
 ```yaml
 name: Neelabh Shukla
@@ -121,21 +121,23 @@ mission: Build. Learn. Innovate.
 ```
 
 </td>
+<td width="50%" valign="middle" align="center">
 
-<!-- RIGHT CARD: HACKER ANIMATION -->
-<td width="45%" valign="middle" align="center">
-
-### `> system.online`
+<h3 align="center">🖥️ system.online</h3>
 
 <img
   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-  width="100%"
-  alt="Animated developer coding at a computer"
+  width="95%"
+  alt="Developer coding at a computer"
 />
+
+<br/><br/>
 
 **`01000010 01010101 01001001 01001100 01000100`**
 
-`ACCESS GRANTED ✓`
+<br/>
+
+<code>ACCESS GRANTED ✓</code>
 
 </td>
 </tr>
@@ -144,7 +146,6 @@ mission: Build. Learn. Innovate.
 </div>
 
 ---
-
 
 
 # ⚡ Tech Stack
