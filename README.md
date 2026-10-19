@@ -98,8 +98,6 @@ const neelabh = {
 
 <div align="center">
 
-### 🌌 Technologies That Power My Universe
-
 <table>
 <tr>
 <td align="center" width="50%">
