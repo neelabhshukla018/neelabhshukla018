@@ -210,11 +210,9 @@ const neelabh = {
 
 A modern blogging platform combining AI-powered content creation, publishing, and media management in one place.
 
-<br/><br/>
-
 <code>React</code> <code>Tailwind CSS</code> <code>Node.js</code> <code>MongoDB</code> <code>Cloudinary</code>
 
-<br/><br/>
+<br/>
 
 <a href="https://despire-blogsmt.netlify.app/">
 <img src="https://img.shields.io/badge/🚀_Try_Now-8B5CF6?style=for-the-badge" alt="Try Now"/>
