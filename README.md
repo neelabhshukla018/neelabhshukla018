@@ -92,55 +92,57 @@ const neelabh = {
 
 ---
 
+
 # ⚡ Tech Stack
 
-### 💻 Languages
+<div align="center">
 
-<p>
+### 🌌 Technologies Power My Universe
+
+**💻 Languages**
+
 <img src="https://skillicons.dev/icons?i=java,js,ts,c,cpp&theme=dark" />
-</p>
 
-### 🎨 Frontend
+---
 
-<p>
+**🎨 Frontend**
+
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=dark" />
-</p>
 
-### ⚙️ Backend
+---
 
-<p>
+**⚙️ Backend**
+
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
 <img src="https://img.shields.io/badge/REST_API-111827?style=for-the-badge" />
-
 <img src="https://img.shields.io/badge/JWT-111827?style=for-the-badge" />
-
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Socket.IO-111827?style=for-the-badge&logo=socketdotio&logoColor=white" />
-</p>
 
-### 🗄️ Database & ORM
+---
 
-<p>
+**🗄️ Database & ORM**
+
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma&theme=dark" />
 
 <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" />
-</p>
 
-### ☁️ Deployment & Cloud
+---
 
-<p>
+**☁️ Deployment & Cloud**
+
 <img src="https://skillicons.dev/icons?i=vercel,netlify,aws&theme=dark" />
 
 <img src="https://img.shields.io/badge/Render-111827?style=for-the-badge&logo=render&logoColor=white" />
-</p>
 
-### 🛠️ Tools
+---
 
-<p>
+**🛠️ Tools**
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vite,npm&theme=dark" />
-</p>
+
+</div>
 
 ---
 
