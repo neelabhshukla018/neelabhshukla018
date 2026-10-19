@@ -209,8 +209,6 @@ const neelabh = {
 
 A modern blogging platform combining AI-powered content creation, publishing, and media management in one place.
 
-**Tech Stack**
-
 `React` `Tailwind CSS` `Node.js` `MongoDB` `Cloudinary`
 
 <br/>
@@ -226,7 +224,7 @@ A modern blogging platform combining AI-powered content creation, publishing, an
 </td>
 
 <td width="42%" valign="middle" align="center">
-<h3>✍️ DESPIRE — AI Blogging Platform</h3>
+<h3>DESPIRE — AI Blogging Platform</h3>
 <a href="https://despire-blogsmt.netlify.app/">
 <img src="./Github_Projects_images/Despire.png" width="100%" alt="DESPIRE Project Preview"/>
 </a>
