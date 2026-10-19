@@ -11,13 +11,9 @@
 </div>
 
 ---
-<div align="center">
 
+<h2 align="center">🏆 GSSoC-2026 Achievements </h2>  
 <img src="https://komarev.com/ghpvc/?username=neelabhshukla018&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" alt="Profile visitor counter"/>
-
----
-
-<h2 align="center">🏆 GSSoC-2026 Achievements</h2>
 
 <p align="center">
 
