@@ -276,8 +276,8 @@ A modern music player focused on personalized discovery and AI-powered song reco
 <h3>✍️ DESPIRE</h3>
 
 <!-- Replace with your project screenshot URL -->
-<a href="YOUR_DESPIRE_LIVE_LINK">
-<img src="YOUR_DESPIRE_IMAGE_URL" width="100%" alt="DESPIRE Project Preview"/>
+<a href="https://despire-blogsmt.netlify.app/">
+<img src="./Github_Projects_images/Despire.png" width="100%" alt="DESPIRE Project Preview"/>
 </a>
 
 An AI blogging platform combining content creation, publishing, and media management.
@@ -289,12 +289,12 @@ An AI blogging platform combining content creation, publishing, and media manage
 <table>
 <tr>
 <td align="center">
-<a href="YOUR_DESPIRE_LIVE_LINK">
+<a href="https://despire-blogsmt.netlify.app/">
 <img src="https://img.shields.io/badge/🚀_Try_Now-8B5CF6?style=for-the-badge" alt="Try Now"/>
 </a>
 </td>
 <td align="center">
-<a href="YOUR_DESPIRE_REPOSITORY_LINK">
+<a href="https://github.com/neelabhshukla018/Despiree-_Blogs">
 <img src="https://img.shields.io/badge/💻_See_Code-24292F?style=for-the-badge&logo=github&logoColor=white" alt="See Code"/>
 </a>
 </td>
