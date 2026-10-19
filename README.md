@@ -372,23 +372,44 @@ A modern blogging platform combining AI-powered content creation, publishing, an
 
 
 
-## 🧠 LeetCode
+
+## 🧠 LeetCode & Problem Solving
 
 <div align="center">
 
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+### 🧩 LeetCode Stats
+
 <a href="https://leetcode.com/u/sirneelabhshuklaji/">
-  <img src="https://leetcard.jacoblin.cool/sirneelabhshuklaji?theme=dark&font=Kreon&ext=activity" width="420" alt="LeetCode Statistics"/>
+<img src="https://leetcard.jacoblin.cool/sirneelabhshuklaji?theme=dark&font=Kreon&ext=contest" width="100%" alt="LeetCode Statistics"/>
 </a>
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+### 🔥 Solving Streak
+
+<a href="https://leetcode.com/u/sirneelabhshuklaji/">
+<img src="https://leetcard.jacoblin.cool/sirneelabhshuklaji?theme=dark&font=Kreon&ext=activity" width="100%" alt="LeetCode Activity and Streak"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 <a href="https://leetcode.com/u/sirneelabhshuklaji/">
-  <img src="https://img.shields.io/badge/VIEW_PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="View LeetCode Profile"/>
+<img src="https://img.shields.io/badge/VIEW_LEETCODE_PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="View LeetCode Profile"/>
 </a>
 
 </div>
 
 ---
+
 
 
 # 🌐 Connect With Me
