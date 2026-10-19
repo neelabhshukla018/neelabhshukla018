@@ -380,7 +380,7 @@ A modern blogging platform combining AI-powered content creation, publishing, an
 <a href="https://leetcode.com/u/sirneelabhshuklaji/">
   <img
     src="https://leetcard.jacoblin.cool/sirneelabhshuklaji?theme=dark&font=Kreon&ext=activity"
-    width="100%"
+    width="320"
     alt="LeetCode Statistics"
   />
 </a>
