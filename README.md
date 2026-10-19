@@ -214,6 +214,73 @@ const neelabh = {
 ---
 
 
+## 🎯 Currently Learning
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🤖 Agentic AI
+Exploring intelligent AI systems
+
+`AI Agents` · `LLM Applications`
+
+`AI Workflows` · `Tool Calling`
+
+</td>
+<td align="center" width="50%">
+
+### 💻 Advanced Full-Stack Development
+Building scalable web applications
+
+`Frontend & Backend` · `REST APIs`
+
+`Authentication` · `System Integration`
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### ⚙️ DevOps & Cloud
+Exploring modern deployment practices
+
+`Docker` · `CI/CD`
+
+`AWS` · `Cloud Deployment`
+
+</td>
+<td align="center" width="50%">
+
+### 🏗️ System Design
+Designing maintainable, scalable systems
+
+`LLD` · `HLD`
+
+`Design Patterns` · `Scalability`
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" colspan="2">
+
+### 🧠 DSA in Java
+Strengthening problem-solving skills
+
+`Data Structures` · `Algorithms`
+
+`LeetCode` · `Complexity Analysis`
+
+</td>
+</tr>
+</table>
+
+**🚀 Learn • Build • Design • Deploy • Improve**
+
+</div>
+---
 
 # 🧠 LeetCode
 
