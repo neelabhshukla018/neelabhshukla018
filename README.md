@@ -225,21 +225,55 @@ const neelabh = {
 
 ---
 
+
 # 🎯 Currently Learning
 
 <div align="center">
 
-|   🤖 Agentic AI  |      🧠 DSA     |
-| :--------------: | :-------------: |
-|     AI Agents    | Data Structures |
-|   AI Workflows   |    Algorithms   |
-| LLM Applications | Problem Solving |
+<table>
+<tr>
+<td align="center" width="50%">
 
-|        ⚡ Next.js        |     ☁️ Cloud     |
-| :---------------------: | :--------------: |
-|   Advanced App Router   |    Deployment    |
-|   Backend Architecture  | Scalable Systems |
-| Full-Stack Applications |  Cloud Services  |
+### 🤖 Agentic AI
+
+`AI Agents` · `AI Workflows`
+
+`LLM Applications` · `Tool Calling`
+
+</td>
+<td align="center" width="50%">
+
+### 🧠 DSA
+
+`Data Structures` · `Algorithms`
+
+`Problem Solving` · `Complexity Analysis`
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### ⚡ Next.js
+
+`App Router` · `Server Components`
+
+`Backend Architecture` · `Full-Stack Apps`
+
+</td>
+<td align="center" width="50%">
+
+### ☁️ Cloud & DevOps
+
+`Deployment` · `AWS`
+
+`Scalable Systems` · `CI/CD`
+
+</td>
+</tr>
+</table>
+
+**📌 Learning by building projects, solving problems, and exploring new technologies.**
 
 </div>
 
