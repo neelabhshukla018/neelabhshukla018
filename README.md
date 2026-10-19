@@ -210,7 +210,10 @@ const neelabh = {
 
 A modern blogging platform combining AI-powered content creation, publishing, and media management in one place.
 
-<code>React</code> <code>Tailwind CSS</code> <code>Node.js</code> <code>MongoDB</code> <code>Cloudinary</code>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,mongodb,cloudinary&theme=dark" alt="React, Tailwind CSS, Node.js, MongoDB, Cloudinary" />
+</p>
 
 <br/>
 
