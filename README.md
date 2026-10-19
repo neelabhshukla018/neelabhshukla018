@@ -47,6 +47,7 @@
 <div align="center">
 
 
+
 <div align="center">
 
 <h2>🏆 My Certificates</h2>
@@ -55,9 +56,13 @@
 <tr>
 <td align="center" valign="top" width="50%">
 
-<svg xmlns="http://www.w3.org/2000/svg" width="40" height="65" viewBox="0 0 40 65">
-  <circle cx="20" cy="7" r="5" fill="#C77B9B"/>
-  <path d="M20 12 V65" stroke="#C77B9B" stroke-width="2.5"/>
+<!-- Hanging string -->
+<img src="https://img.shields.io/badge/●-C77B9B?style=flat-square" width="12" alt="Hanging point"/>
+
+<br/>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="55" viewBox="0 0 20 55">
+  <path d="M10 0 V55" stroke="#C77B9B" stroke-width="2.5"/>
 </svg>
 
 <br/>
@@ -72,9 +77,9 @@
   width="95%"
 />
 
-<br/>
+<br/><br/>
 
-<strong>Smartly Labs Certificate</strong>
+<strong>✦ Smartly Labs Certificate ✦</strong>
 
 </td>
 </tr>
@@ -84,9 +89,13 @@
 
 <td align="center" valign="top" width="50%">
 
-<svg xmlns="http://www.w3.org/2000/svg" width="40" height="65" viewBox="0 0 40 65">
-  <circle cx="20" cy="7" r="5" fill="#C77B9B"/>
-  <path d="M20 12 V65" stroke="#C77B9B" stroke-width="2.5"/>
+<!-- Hanging string -->
+<img src="https://img.shields.io/badge/●-C77B9B?style=flat-square" width="12" alt="Hanging point"/>
+
+<br/>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="55" viewBox="0 0 20 55">
+  <path d="M10 0 V55" stroke="#C77B9B" stroke-width="2.5"/>
 </svg>
 
 <br/>
@@ -101,9 +110,9 @@
   width="95%"
 />
 
-<br/>
+<br/><br/>
 
-<strong>GSSoC 2026 Certificate</strong>
+<strong>✦ GSSoC 2026 Certificate ✦</strong>
 
 </td>
 </tr>
@@ -114,6 +123,7 @@
 </table>
 
 </div>
+
 
 
 
