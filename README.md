@@ -199,44 +199,47 @@ const neelabh = {
 
 
 
-
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="58%" valign="middle">
 
-<h3>✍️ DESPIRE</h3>
+<h3>✍️ DESPIRE — AI Blogging Platform</h3>
 
-<!-- Replace with your project screenshot URL -->
+A modern blogging platform combining AI-powered content creation, publishing, and media management in one place.
+
+**Tech Stack**
+
+`React` `Tailwind CSS` `Node.js` `MongoDB` `Cloudinary`
+
+<br/>
+
+<a href="https://despire-blogsmt.netlify.app/">
+<img src="https://img.shields.io/badge/🚀_Try_Now-8B5CF6?style=for-the-badge" alt="Try Now"/>
+</a>
+&nbsp;
+<a href="https://github.com/neelabhshukla018/Despiree-_Blogs">
+<img src="https://img.shields.io/badge/💻_See_Code-24292F?style=for-the-badge&logo=github&logoColor=white" alt="See Code"/>
+</a>
+
+</td>
+
+<td width="42%" valign="middle" align="center">
+
 <a href="https://despire-blogsmt.netlify.app/">
 <img src="./Github_Projects_images/Despire.png" width="100%" alt="DESPIRE Project Preview"/>
 </a>
 
-An AI blogging platform combining content creation, publishing, and media management.
-
-`React` `Node.js` `MongoDB` `Cloudinary`
-
-<table>
-<tr>
-<td align="center">
-<a href="https://despire-blogsmt.netlify.app/">
-<img src="https://img.shields.io/badge/🚀_Try_Now-8B5CF6?style=for-the-badge" alt="Try Now"/>
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/neelabhshukla018/Despiree-_Blogs">
-<img src="https://img.shields.io/badge/💻_See_Code-24292F?style=for-the-badge&logo=github&logoColor=white" alt="See Code"/>
-</a>
 </td>
 </tr>
 </table>
 
-
 </div>
 
+---
 
 
 # 🟩 GitHub Contributions
