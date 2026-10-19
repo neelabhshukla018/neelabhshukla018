@@ -124,10 +124,6 @@ mission: >
 </tr>
 </table>
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=java,js,ts,cpp,react,nextjs,nodejs,express,mongodb,postgres,docker,aws&theme=dark" alt="Developer technology stack"/>
-
 </div>
 
 ---
