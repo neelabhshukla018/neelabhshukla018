@@ -369,7 +369,7 @@ A modern blogging platform combining AI-powered content creation, publishing, an
 
 <table>
 <tr>
-<td width="55%" align="center" valign="middle">
+<td width="75%" align="center" valign="middle">
 
 <a href="https://github.com/neelabhshukla018">
   <img src="https://streak-stats.demolab.com?user=neelabhshukla018&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak Stats"/>
