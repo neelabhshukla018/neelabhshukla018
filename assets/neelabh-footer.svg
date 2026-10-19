@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130" role="img" aria-labelledby="title">
+  <title id="title">Build. Learn. Break. Improve. Repeat.</title>
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#701A3D" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#C77B9B"/>
+      <stop offset="1" stop-color="#701A3D" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="130" rx="18" fill="#10070C"/>
+  <path d="M50 34H1150" stroke="url(#line)" stroke-width="2"/>
+  <text x="600" y="77" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600" fill="#F8F0F3">Build. Learn. Break. Improve. Repeat.</text>
+  <text x="600" y="103" text-anchor="middle" font-family="monospace" font-size="12" letter-spacing="3" fill="#C77B9B">KEEP CREATING • KEEP EXPLORING</text>
+</svg>

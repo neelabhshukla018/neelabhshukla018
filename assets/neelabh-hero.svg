@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+  <title id="title">Neelabh Shukla — Full-Stack Developer</title>
+  <desc id="desc">A burgundy and midnight developer banner with subtle animated light and technical grid details.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10070C"/>
+      <stop offset=".55" stop-color="#190B12"/>
+      <stop offset="1" stop-color="#451126"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#701A3D" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#C77B9B" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#701A3D" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0;-1 0" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" fill="none" stroke="#E5B5C7" stroke-opacity=".09" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="390" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="390" rx="22" fill="url(#grid)"/>
+  <circle cx="1010" cy="70" r="150" fill="#701A3D" opacity=".18"/>
+  <circle cx="1010" cy="70" r="150" fill="none" stroke="#C77B9B" stroke-opacity=".35"/>
+  <circle cx="1010" cy="70" r="112" fill="none" stroke="#C77B9B" stroke-opacity=".22" stroke-dasharray="4 9">
+    <animateTransform attributeName="transform" type="rotate" from="0 1010 70" to="360 1010 70" dur="50s" repeatCount="indefinite"/>
+  </circle>
+  <path d="M40 300 C220 235 290 350 450 280 S740 220 900 275 S1080 320 1160 245" fill="none" stroke="#C77B9B" stroke-width="2" stroke-opacity=".45"/>
+  <path d="M40 300 C220 235 290 350 450 280 S740 220 900 275 S1080 320 1160 245" fill="none" stroke="#E5B5C7" stroke-width="7" stroke-opacity=".22" filter="url(#softGlow)"/>
+  <rect x="60" y="55" width="7" height="215" rx="3.5" fill="#C77B9B"/>
+  <text x="92" y="115" fill="#E5B5C7" font-family="monospace" font-size="17" letter-spacing="4">HELLO, WORLD — I'M</text>
+  <text x="88" y="180" fill="#F8F0F3" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700">Neelabh Shukla</text>
+  <text x="92" y="220" fill="#E5B5C7" font-family="Arial, Helvetica, sans-serif" font-size="23">Full-Stack Developer · Agentic AI Learner</text>
+  <text x="92" y="256" fill="#C9B8C0" font-family="monospace" font-size="16">React / Next.js / Node.js / TypeScript</text>
+  <rect x="92" y="280" width="320" height="3" rx="1.5" fill="url(#glow)"/>
+  <text x="92" y="335" fill="#C77B9B" font-family="monospace" font-size="13" letter-spacing="2">BUILD • LEARN • IMPROVE</text>
+  <circle cx="1090" cy="300" r="5" fill="#E5B5C7">
+    <animate attributeName="opacity" values=".25;1;.25" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+</svg>
