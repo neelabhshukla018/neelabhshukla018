@@ -205,13 +205,16 @@ const neelabh = {
 
 <table>
 <tr>
-<td width="58%" valign="middle">
+
+<td width="58%" valign="middle" align="center">
 
 A modern blogging platform combining AI-powered content creation, publishing, and media management in one place.
 
-`React` `Tailwind CSS` `Node.js` `MongoDB` `Cloudinary`
+<br/><br/>
 
-<br/>
+<code>React</code> <code>Tailwind CSS</code> <code>Node.js</code> <code>MongoDB</code> <code>Cloudinary</code>
+
+<br/><br/>
 
 <a href="https://despire-blogsmt.netlify.app/">
 <img src="https://img.shields.io/badge/🚀_Try_Now-8B5CF6?style=for-the-badge" alt="Try Now"/>
@@ -222,6 +225,7 @@ A modern blogging platform combining AI-powered content creation, publishing, an
 </a>
 
 </td>
+
 
 <td width="42%" valign="middle" align="center">
 <h3>DESPIRE — AI Blogging Platform</h3>
