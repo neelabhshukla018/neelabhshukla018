@@ -46,24 +46,35 @@
 
 <br/>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img
-        src="./smartly-labs-certificate_page-0001.jpg"
-        alt="Smartly Labs Certificate"
-        width="420"
-      />
-    </td>
-    <td align="center">
-      <img
-        src="./GSSoC-2026-Certificate_page-0001.jpg"
-        alt="GSSoC 2026 Certificate"
-        width="420"
-      />
-    </td>
-  </tr>
+<div align="center">
+
+<h2>🏆 My Certificates</h2>
+
+<table>
+<tr>
+<td align="center" width="50%">
+<pre>       │
+       │
+       ●
+       │
+       │</pre>
+<img src="./smartly-labs-certificate_page-0001.jpg" width="95%" alt="Smartly Labs Certificate"/>
+<strong>Smartly Labs Certificate</strong>
+</td>
+
+<td align="center" width="50%">
+<pre>       │
+       │
+       ●
+       │
+       │</pre>
+<img src="./GSSoC-2026-Certificate_page-0001.jpg" width="95%" alt="GSSoC 2026 Certificate"/>
+<strong>GSSoC 2026 Certificate</strong>
+</td>
+</tr>
 </table>
+
+</div>
 
 <br/>
 
