@@ -366,45 +366,56 @@ A modern blogging platform combining AI-powered content creation, publishing, an
 
 
 
-# 🌐 Connect With Me
+# 📊 GitHub Stats & 🌐 Connect With Me
 
-<div align="center">
+<table>
+<tr>
+<td width="55%" align="center" valign="middle">
+
+### 📊 GitHub Stats
 
 <a href="https://github.com/neelabhshukla018">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://streak-stats.demolab.com?user=neelabhshukla018&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak Stats"/>
 </a>
 
+</td>
+<td width="45%" align="center" valign="middle">
+
+### 🌐 Connect With Me
+
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/neelabhshukla018">
+<img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+</td>
+<td align="center">
 <a href="https://linkedin.com/in/neelabh-shukla-45b88a2a5">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
+</td>
+</tr>
+<tr>
+<td align="center">
 <a href="https://neel-xdev-ipu2.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
-
-
-
-<a href="https://www.instagram.com//satyam_shukla_1845/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</td>
+<td align="center">
+<a href="https://www.instagram.com/satyam_shukla_1845/">
+<img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
+</td>
+</tr>
+</table>
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Stats
-
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=neelabhshukla018&theme=tokyonight&hide_border=true"
-  alt="Neelabh's GitHub Streak"
-/>
-
-</div>
-
----
 
 <div align="center">
 
