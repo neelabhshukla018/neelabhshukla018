@@ -222,7 +222,7 @@ A modern blogging platform combining AI-powered content creation, publishing, an
 </a>
 &nbsp;
 <a href="https://github.com/neelabhshukla018/Despiree-_Blogs">
-<img src="https://img.shields.io/badge/💻_See_Code-24292F?style=for-the-badge&logo=github&logoColor=white" alt="See Code"/>
+<img src="https://img.shields.io/badge/See_Code-24292F?style=for-the-badge&logo=github&logoColor=white" alt="See Code"/>
 </a>
 
 </td>
