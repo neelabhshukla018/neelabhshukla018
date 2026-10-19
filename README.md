@@ -9,14 +9,6 @@
 <br/>
 
 
-<a href="https://github.com/neelabhshukla018">
-<img src="https://img.shields.io/github/followers/neelabhshukla018?label=Followers&style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://github.com/neelabhshukla018?tab=repositories">
-<img src="https://img.shields.io/github/stars/neelabhshukla018?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars"/>
-</a>
-
 </div>
 
 ---
