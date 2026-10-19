@@ -86,22 +86,56 @@
 
 <br/>
 
-#  About Me
 
-```js
-const neelabh = {
-    role: "Full-Stack Developer",
-    education: "B.Tech CSE — 3rd Year",
-    university: "Shri Ramswaroop Memorial University",
-    currentlyLearning: ["Agentic AI", "DSA", "System Design"],
-    languages: ["Java", "JavaScript", "TypeScript", "C", "C++"],
-    frontend: ["React", "Next.js", "Tailwind CSS"],
-    backend: ["Node.js", "Express.js", "REST APIs"],
-    databases: ["MongoDB", "PostgreSQL", "MySQL"],
-    goal: "Build useful products and keep learning "
-};
-```
+## 👨‍💻 About Me
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🚀 Who I Am
+
+Full-Stack Developer passionate about building modern web applications and solving real-world problems.
+
+🎓 **Education**
+
+B.Tech in Computer Science & Engineering
+
+Shri Ramswaroop Memorial University
+
+</td>
+<td align="center" width="50%">
+
+### 🎯 My Focus
+
+🤖 Exploring Agentic AI & LLMs
+
+🧠 Practicing DSA with Java
+
+🏗️ Learning LLD & HLD
+
+⚙️ Exploring DevOps & Cloud
+
+</td>
+</tr>
+</table>
+
+### 💻 Technologies I Work With
+
+<img src="https://skillicons.dev/icons?i=java,cpp,c,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,mysql&theme=dark" alt="Technologies I work with"/>
+
+<br/>
+
+### 🌱 My Philosophy
+
+*Build meaningful projects. Learn continuously. Turn ideas into reality.*
+
+</div>
+
 ---
+
 # ⚡ Tech Stack
 
 <div align="center">
