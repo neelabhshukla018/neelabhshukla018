@@ -1,7 +1,8 @@
-
 <div align="center">
 
-<img src="./assets/neelabh-hero.svg" alt="Neelabh Shukla — Full-Stack Developer" width="100%" />
+<img src="./assets/header.svg" alt="Neelabh Shukla - Full-Stack Developer" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications;Learning+Agentic+AI;Turning+Ideas+Into+Products" />
 
 <br/>
 
@@ -15,7 +16,7 @@
 
 </div>
 
----
+<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
 
 <h2 align="center">🏆 GSSoC-2026 Achievements</h2>
 
@@ -41,6 +42,10 @@
 
 <br/>
 
+<div align="center">
+<img src="./assets/certificates.svg" alt="Hanging certificates" width="100%"/>
+</div>
+
 <table align="center">
   <tr>
     <td align="center">
@@ -62,7 +67,7 @@
 
 <br/>
 
-# About Me
+#  About Me
 
 ```js
 const neelabh = {
@@ -74,20 +79,27 @@ const neelabh = {
     frontend: ["React", "Next.js", "Tailwind CSS"],
     backend: ["Node.js", "Express.js", "REST APIs"],
     databases: ["MongoDB", "PostgreSQL", "MySQL"],
-    goal: "Build useful products and keep learning"
+    goal: "Build useful products and keep learning "
 };
 ```
 
-- Third-year **B.Tech Computer Science & Engineering** student.
-- Full-Stack Developer passionate about building modern web applications.
-- Currently learning **Agentic AI**.
-- Practising **DSA and problem solving**.
-- Exploring scalable backend systems and cloud technologies.
-- Always building, learning, and improving.
+*  3rd Year **B.Tech Computer Science & Engineering** student
+*  Full-Stack Developer passionate about building modern web applications
+*  Currently learning **Agentic AI**
+*  Practicing **DSA & problem solving**
+*  Exploring scalable backend systems and cloud technologies
+* 🚀 Always building, learning and improving
 
----
+<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
 
 # ⚡ Tech Stack
+
+<div align="center">
+<img src="./assets/techstack.svg" alt="Tech stack orbiting around Neelabh" width="100%"/>
+</div>
+
+<details>
+<summary><b>See the full tech list</b></summary>
 
 ### 💻 Languages
 
@@ -137,7 +149,9 @@ const neelabh = {
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vite,npm&theme=dark" />
 </p>
 
----
+</details>
+
+<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
 
 # 📊 GitHub Stats
 
@@ -150,14 +164,14 @@ const neelabh = {
 
 </div>
 
----
+<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
 
 # 🟩 GitHub Contributions
 
 <div align="center">
 
-<img
-  src="https://ghchart.rshah.org/38B13C/neelabhshukla018"
+<img 
+  src="https://ghchart.rshah.org/38B13C/neelabhshukla018" 
   alt="Neelabh's GitHub Contributions"
   width="100%"
 />
@@ -166,53 +180,49 @@ const neelabh = {
 
 <br/>
 
----
+<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
 
 # 🧠 LeetCode
 
 <div align="center">
 
-<img
-  src="https://leetcard.jacoblin.cool/sirneelabhshuklaji?theme=dark&font=Kreon&ext=activity"
-  width="700"
-  alt="LeetCode Stats"
-/>
+<img src="https://leetcard.jacoblin.cool/sirneelabhshuklaji?theme=dark&font=Kreon&ext=activity" width="700" alt="LeetCode Stats" />
 
 </div>
 
----
+<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
 
 # 🎯 Currently Learning
 
 <div align="center">
 
-| 🤖 Agentic AI | 🧠 DSA |
-|:---:|:---:|
-| AI Agents | Data Structures |
-| AI Workflows | Algorithms |
+|   🤖 Agentic AI  |      🧠 DSA     |
+| :--------------: | :-------------: |
+|     AI Agents    | Data Structures |
+|   AI Workflows   |    Algorithms   |
 | LLM Applications | Problem Solving |
 
-| ⚡ Next.js | ☁️ Cloud |
-|:---:|:---:|
-| Advanced App Router | Deployment |
-| Backend Architecture | Scalable Systems |
-| Full-Stack Applications | Cloud Services |
+|        ⚡ Next.js        |     ☁️ Cloud     |
+| :---------------------: | :--------------: |
+|   Advanced App Router   |    Deployment    |
+|   Backend Architecture  | Scalable Systems |
+| Full-Stack Applications |  Cloud Services  |
 
 </div>
 
----
+<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
 
 # 🏆 What I'm Working Towards
 
-- 🤖 Building AI-powered applications.
-- 🧠 Improving DSA and problem-solving skills.
-- 🏗️ Designing scalable full-stack systems.
-- 🌐 Building real-world products.
-- ☁️ Learning modern cloud technologies.
-- 🔓 Contributing more to open source.
-- 🚀 Exploring the future of Agentic AI.
+* 🤖 Building AI-powered applications
+* 🧠 Improving DSA and problem-solving skills
+* 🏗️ Designing scalable full-stack systems
+* 🌐 Building real-world products
+* ☁️ Learning modern cloud technologies
+* 🔓 Contributing more to open-source
+* 🚀 Exploring the future of Agentic AI
 
----
+<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
 
 # 🌐 Connect With Me
 
@@ -234,19 +244,23 @@ const neelabh = {
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://www.instagram.com/satyam_shukla_1845/">
+<a href="https://www.instagram.com/arjun_dream_1845/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
 
----
+<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
 
 <div align="center">
 
-<img src="./assets/neelabh-footer.svg" alt="Build. Learn. Break. Improve. Repeat." width="100%" />
+### 💭 *"Build. Learn. Break. Improve. Repeat."*
 
 <br/>
+
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="140" />
+
+<br/><br/>
 
 ### ⭐ Thanks for visiting my profile!
 
