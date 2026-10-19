@@ -48,28 +48,43 @@
 
 <div align="center">
 
-<h2>🏆 My Certificates</h2>
-
 <table>
 <tr>
-<td align="center" width="50%">
-<pre>       │
-       │
-       ●
-       │
-       │</pre>
-<img src="./smartly-labs-certificate_page-0001.jpg" width="95%" alt="Smartly Labs Certificate"/>
-<strong>Smartly Labs Certificate</strong>
-</td>
+<td align="center" valign="top" width="50%">
 
-<td align="center" width="50%">
-<pre>       │
-       │
-       ●
-       │
-       │</pre>
-<img src="./GSSoC-2026-Certificate_page-0001.jpg" width="95%" alt="GSSoC 2026 Certificate"/>
-<strong>GSSoC 2026 Certificate</strong>
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="75" viewBox="0 0 20 75">
+  <path d="M10 0 V75" stroke="#C77B9B" stroke-width="2" stroke-dasharray="4 3"/>
+  <circle cx="10" cy="10" r="5" fill="#C77B9B"/>
+</svg>
+
+<br/>
+
+<img
+  src="./smartly-labs-certificate_page-0001.jpg"
+  alt="Smartly Labs Certificate"
+  width="95%"
+/>
+
+**Smartly Labs Certificate**
+
+</td>
+<td align="center" valign="top" width="50%">
+
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="75" viewBox="0 0 20 75">
+  <path d="M10 0 V75" stroke="#C77B9B" stroke-width="2" stroke-dasharray="4 3"/>
+  <circle cx="10" cy="10" r="5" fill="#C77B9B"/>
+</svg>
+
+<br/>
+
+<img
+  src="./GSSoC-2026-Certificate_page-0001.jpg"
+  alt="GSSoC 2026 Certificate"
+  width="95%"
+/>
+
+**GSSoC 2026 Certificate**
+
 </td>
 </tr>
 </table>
