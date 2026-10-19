@@ -163,7 +163,7 @@ mindset: Build. Solve. Innovate.
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,c,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,c&theme=dark" />
 
 </td>
 <td align="center" width="50%">
@@ -294,19 +294,6 @@ A modern blogging platform combining AI-powered content creation, publishing, an
 ---
 
 
-# 🟩 GitHub Contributions
-
-<div align="center">
-
-<img 
-  src="https://ghchart.rshah.org/38B13C/neelabhshukla018" 
-  alt="Neelabh's GitHub Contributions"
-  width="100%"
-/>
-
-</div>
-
-<br/>
 
 
 ---
