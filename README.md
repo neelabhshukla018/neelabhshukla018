@@ -198,120 +198,153 @@ const neelabh = {
 
 
 
-## 🚀 Innovative Projects
+
+## 🚀 Featured Projects
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td align="center">
 
 <h3>🌆 naXity</h3>
 
-**AI-Powered Urban Mobility & Smart City Intelligence**
+AI-Powered Urban Mobility & Smart City Intelligence Platform.
 
-An intelligent urban ecosystem designed to bring navigation, mobility, transport discovery, and smart-city services together in one platform.
-
-**✨ Innovation**
-- AI-powered urban intelligence
-- Unified mobility experience
-- Location-aware city services
-
-**🛠️ Tech Stack**
-
-`Next.js` `TypeScript` `PostgreSQL` `PostGIS` `Node.js`
+Bringing navigation, mobility, and smart-city services into one intelligent ecosystem.
 
 <br/>
 
-🔴 **Live Demo:** [View Project](#)
+**Tech Stack**
 
-💻 **Source Code:** [GitHub Repository](#)
+`Next.js` `TypeScript` `Node.js` `PostgreSQL` `PostGIS`
+
+<br/>
+
+<table>
+<tr>
+<td align="center">
+<a href="YOUR_NAXITY_LIVE_LINK">
+<img src="https://img.shields.io/badge/🚀_Try_Now-8B5CF6?style=for-the-badge" alt="Try Now"/>
+</a>
+</td>
+<td align="center">
+<a href="YOUR_NAXITY_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/💻_See_Code-24292F?style=for-the-badge&logo=github&logoColor=white" alt="See Code"/>
+</a>
+</td>
+</tr>
+</table>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td align="center">
 
 <h3>🎵 musX</h3>
 
-**AI-Powered Music Discovery**
+An AI-powered music discovery experience built around personalized recommendations.
 
-A modern music experience focused on personalized discovery and intelligent song recommendations, going beyond traditional music-player functionality.
+Discover music through a modern interface designed for a smarter listening experience.
 
-**✨ Innovation**
-- AI-driven song discovery
-- Personalized recommendations
-- Modern music experience
+<br/>
 
-**🛠️ Tech Stack**
+**Tech Stack**
 
 `Next.js` `TypeScript` `Tailwind CSS`
 
 <br/>
 
-🔴 **Live Demo:** [Add Live Link](#)
-
-💻 **Source Code:** [Add Repository Link](#)
+<table>
+<tr>
+<td align="center">
+<a href="YOUR_MUSX_LIVE_LINK">
+<img src="https://img.shields.io/badge/🚀_Try_Now-8B5CF6?style=for-the-badge" alt="Try Now"/>
+</a>
+</td>
+<td align="center">
+<a href="YOUR_MUSX_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/💻_See_Code-24292F?style=for-the-badge&logo=github&logoColor=white" alt="See Code"/>
+</a>
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td align="center">
 
 <h3>✍️ DESPIRE</h3>
 
-**AI-Powered Blogging Platform**
+An AI-powered blogging platform that brings content creation and publishing together.
 
-A content creation platform combining blogging with AI-powered assistance to help creators develop and publish content.
-
-**✨ Innovation**
-- AI-assisted content creation
-- Integrated media uploads
-- Creator-focused publishing
-
-**🛠️ Tech Stack**
-
-`React` `Node.js` `MongoDB` `Cloudinary`
+Designed to help creators write, manage, and publish content with integrated media support.
 
 <br/>
 
-🔴 **Live Demo:** [Add Live Link](#)
+**Tech Stack**
 
-💻 **Source Code:** [Add Repository Link](#)
+`React` `Tailwind CSS` `Node.js` `MongoDB` `Cloudinary`
+
+<br/>
+
+<table>
+<tr>
+<td align="center">
+<a href="YOUR_DESPIRE_LIVE_LINK">
+<img src="https://img.shields.io/badge/🚀_Try_Now-8B5CF6?style=for-the-badge" alt="Try Now"/>
+</a>
+</td>
+<td align="center">
+<a href="YOUR_DESPIRE_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/💻_See_Code-24292F?style=for-the-badge&logo=github&logoColor=white" alt="See Code"/>
+</a>
+</td>
+</tr>
+</table>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td align="center">
 
 <h3>🌍 TRAVENTURE</h3>
 
-**Smart Travel Discovery & Booking**
+A travel-focused platform designed to make destination discovery and trip planning easier.
 
-A travel platform concept designed to make discovering destinations and planning travel more convenient through a unified experience.
+Bringing travel exploration and booking-oriented experiences into one interface.
 
-**✨ Innovation**
-- Simplified destination discovery
-- Travel planning experience
-- Booking-focused interface
+<br/>
 
-**🛠️ Tech Stack**
+**Tech Stack**
 
 `HTML` `CSS` `JavaScript`
 
 <br/>
 
-🔴 **Live Demo:** [Add Live Link](#)
-
-💻 **Source Code:** [Add Repository Link](#)
+<table>
+<tr>
+<td align="center">
+<a href="YOUR_TRAVENTURE_LIVE_LINK">
+<img src="https://img.shields.io/badge/🚀_Try_Now-8B5CF6?style=for-the-badge" alt="Try Now"/>
+</a>
+</td>
+<td align="center">
+<a href="YOUR_TRAVENTURE_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/💻_See_Code-24292F?style=for-the-badge&logo=github&logoColor=white" alt="See Code"/>
+</a>
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
 </table>
 
-</div>
+<br/>
 
-<div align="center">
-
-### 💡 Turning Ideas Into Impact
-
-*Identifying real-world problems, designing thoughtful solutions, and building technology that matters.*
+**💡 Building ideas into real-world solutions.**
 
 </div>
 
