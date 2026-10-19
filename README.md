@@ -88,25 +88,27 @@
 
 
 
+
 ## 👨‍💻 About Me
 
 <div align="center">
 
 <table>
 <tr>
-<td>
+<!-- LEFT CARD: DEVELOPER PROFILE -->
+<td width="55%" valign="middle" align="center">
+
+### `> developer.config`
 
 ```yaml
-# developer.config
-
 name: Neelabh Shukla
 role: Full-Stack Developer
 education: B.Tech CSE | 3rd Year
 
-interests:
+currently_learning:
   - Agentic AI & LLMs
-  - Advanced Full-Stack Development
-  - System Design (LLD & HLD)
+  - Advanced Full-Stack
+  - System Design (LLD/HLD)
   - DevOps & Cloud
 
 languages:
@@ -115,10 +117,25 @@ languages:
   - TypeScript
   - C / C++
 
-mission: >
-  Build useful products, solve real-world
-  problems, and never stop learning.
+mission: Build. Learn. Innovate.
 ```
+
+</td>
+
+<!-- RIGHT CARD: HACKER ANIMATION -->
+<td width="45%" valign="middle" align="center">
+
+### `> system.online`
+
+<img
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  width="100%"
+  alt="Animated developer coding at a computer"
+/>
+
+**`01000010 01010101 01001001 01001100 01000100`**
+
+`ACCESS GRANTED ✓`
 
 </td>
 </tr>
@@ -127,6 +144,7 @@ mission: >
 </div>
 
 ---
+
 
 
 # ⚡ Tech Stack
