@@ -365,7 +365,6 @@ A modern blogging platform combining AI-powered content creation, publishing, an
 ---
 
 
-
 # 📊 GitHub Stats & 🌐 Connect With Me
 
 <table>
@@ -387,24 +386,24 @@ A modern blogging platform combining AI-powered content creation, publishing, an
 <tr>
 <td align="center">
 <a href="https://github.com/neelabhshukla018">
-<img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 </td>
 <td align="center">
 <a href="https://linkedin.com/in/neelabh-shukla-45b88a2a5">
-<img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 </td>
 </tr>
 <tr>
 <td align="center">
 <a href="https://neel-xdev-ipu2.vercel.app/">
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 </td>
 <td align="center">
 <a href="https://www.instagram.com/satyam_shukla_1845/">
-<img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 </td>
 </tr>
