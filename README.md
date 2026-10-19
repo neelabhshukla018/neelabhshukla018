@@ -13,7 +13,7 @@
 ---
 
 <h2 align="center">🏆 GSSoC-2026 Achievements </h2>  
-<img src="https://komarev.com/ghpvc/?username=neelabhshukla018&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" alt="Profile visitor counter"/>
+
 
 <p align="center">
 
@@ -424,7 +424,9 @@ A modern blogging platform combining AI-powered content creation, publishing, an
 
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="140" alt="Thank you GIF"/>
 
+<div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=neelabhshukla018&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" alt="Profile visitor counter"/>
 
 ### ⭐ Thanks for visiting my profile!
 
