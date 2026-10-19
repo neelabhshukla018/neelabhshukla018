@@ -415,7 +415,7 @@ A modern blogging platform combining AI-powered content creation, publishing, an
 
 <div align="center">
 
-### 💭 *"Build. Learn. Break. Improve. Repeat."*
+### *"𝙄𝙛 𝙩𝙝𝙚𝙧𝙚 𝙞𝙨 1% 𝘾𝙝𝙖𝙣𝙘𝙚 𝙎𝙤𝙢𝙚𝙩𝙞𝙢𝙚𝙨 𝙩𝙝𝙖𝙩 𝙘𝙝𝙖𝙣𝙘𝙚 𝙞𝙨 𝙜𝙤𝙤𝙙 𝙚𝙣𝙤𝙪𝙜𝙝𝙩 𝙩𝙤 𝙖𝙘𝙝𝙚𝙞𝙫𝙚""*
 
 <br/>
 
