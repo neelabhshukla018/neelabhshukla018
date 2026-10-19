@@ -8,9 +8,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Exploring+Agentic+AI+%26+LLMs;Designing+Scalable+Full-Stack+Systems;Learning+DSA+%26+System+Design;Turning+Ideas+Into+Products" alt="Animated typing text"/>
 
+<img src="https://komarev.com/ghpvc/?username=neelabhshukla018&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" alt="Profile visitor counter"/>
 
 </div>
-<img src="https://komarev.com/ghpvc/?username=neelabhshukla018&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" alt="Profile visitor counter"/>
+
 
 
 ---
