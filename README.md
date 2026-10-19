@@ -196,6 +196,75 @@ const neelabh = {
 
 ---
 
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌆 naXity
+**AI-Powered Smart City Platform**
+
+An intelligent urban mobility platform for navigation, transport, ride discovery, and smart-city services.
+
+**Tech Stack:** Next.js · TypeScript · Node.js · PostgreSQL
+
+🔗 [GitHub Repository](https://github.com/neelabhshukla018)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎵 musX
+**AI-Powered Music Player**
+
+A modern music player focused on personalized music discovery and AI-driven song recommendations.
+
+**Tech Stack:** Next.js · TypeScript · Tailwind CSS
+
+🔗 [GitHub Repository](https://github.com/neelabhshukla018)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✍️ DESPIRE
+**AI Blogging Platform**
+
+A blogging platform combining content creation, AI-powered features, and media uploads.
+
+**Tech Stack:** React · Tailwind CSS · Node.js · MongoDB
+
+🔗 [GitHub Repository](https://github.com/neelabhshukla018)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 TRAVENTURE
+**Travel Booking Platform**
+
+A travel-focused web application designed to help users explore destinations and plan trips.
+
+**Tech Stack:** HTML · CSS · JavaScript
+
+🔗 [GitHub Repository](https://github.com/neelabhshukla018)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<p align="center">
+  💡 <i>Building projects, exploring new technologies, and turning ideas into reality.</i>
+</p>
+
+
 # 🟩 GitHub Contributions
 
 <div align="center">
