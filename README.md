@@ -101,25 +101,30 @@
 
 ### `> developer.config`
 
-```yaml
+
 name: Neelabh Shukla
-role: Full-Stack Developer
-education: B.Tech CSE | 3rd Year
+title: Full-Stack Developer
+focus: Building Scalable Web Applications
 
-currently_learning:
-  - Agentic AI & LLMs
-  - Advanced Full-Stack
-  - System Design (LLD/HLD)
-  - DevOps & Cloud
+expertise:
+  frontend: React, Next.js, Tailwind CSS
+  backend: Node.js, Express.js, REST APIs
+  databases: MongoDB, PostgreSQL, MySQL
 
-languages:
-  - Java
-  - JavaScript
-  - TypeScript
-  - C / C++
+exploring:
+  - Agentic AI & LLM Applications
+  - Advanced Full-Stack Engineering
+  - System Design (LLD & HLD)
+  - DevOps & Cloud Infrastructure
+  - Data Structures & Algorithms in Java
 
-mission: Build. Learn. Innovate.
-```
+education:
+  degree: B.Tech Computer Science & Engineering
+  year: 3rd Year
+  university: Shri Ramswaroop Memorial University
+
+mindset: Build. Solve. Innovate.
+
 
 </td>
 
