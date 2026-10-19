@@ -199,27 +199,27 @@ const neelabh = {
 
 
 
+
 ## 🚀 Featured Projects
 
 <div align="center">
 
-<table width="100%">
+<table>
 <tr>
-<td align="center">
+<td width="50%" valign="top" align="center">
 
 <h3>🌆 naXity</h3>
 
-AI-Powered Urban Mobility & Smart City Intelligence Platform.
+<!-- Replace with your project screenshot URL -->
+<a href="YOUR_NAXITY_LIVE_LINK">
+<img src="YOUR_NAXITY_IMAGE_URL" width="100%" alt="naXity Project Preview"/>
+</a>
 
-Bringing navigation, mobility, and smart-city services into one intelligent ecosystem.
-
-<br/>
+AI-powered urban mobility and smart-city intelligence, bringing navigation and city services together.
 
 **Tech Stack**
 
-`Next.js` `TypeScript` `Node.js` `PostgreSQL` `PostGIS`
-
-<br/>
+`Next.js` `TypeScript` `Node.js` `PostgreSQL`
 
 <table>
 <tr>
@@ -237,23 +237,20 @@ Bringing navigation, mobility, and smart-city services into one intelligent ecos
 </table>
 
 </td>
-</tr>
-<tr>
-<td align="center">
+<td width="50%" valign="top" align="center">
 
 <h3>🎵 musX</h3>
 
-An AI-powered music discovery experience built around personalized recommendations.
+<!-- Replace with your project screenshot URL -->
+<a href="YOUR_MUSX_LIVE_LINK">
+<img src="YOUR_MUSX_IMAGE_URL" width="100%" alt="musX Project Preview"/>
+</a>
 
-Discover music through a modern interface designed for a smarter listening experience.
-
-<br/>
+A modern music player focused on personalized discovery and AI-powered song recommendations.
 
 **Tech Stack**
 
 `Next.js` `TypeScript` `Tailwind CSS`
-
-<br/>
 
 <table>
 <tr>
@@ -272,22 +269,22 @@ Discover music through a modern interface designed for a smarter listening exper
 
 </td>
 </tr>
+
 <tr>
-<td align="center">
+<td width="50%" valign="top" align="center">
 
 <h3>✍️ DESPIRE</h3>
 
-An AI-powered blogging platform that brings content creation and publishing together.
+<!-- Replace with your project screenshot URL -->
+<a href="YOUR_DESPIRE_LIVE_LINK">
+<img src="YOUR_DESPIRE_IMAGE_URL" width="100%" alt="DESPIRE Project Preview"/>
+</a>
 
-Designed to help creators write, manage, and publish content with integrated media support.
-
-<br/>
+An AI blogging platform combining content creation, publishing, and media management.
 
 **Tech Stack**
 
-`React` `Tailwind CSS` `Node.js` `MongoDB` `Cloudinary`
-
-<br/>
+`React` `Node.js` `MongoDB` `Cloudinary`
 
 <table>
 <tr>
@@ -305,23 +302,20 @@ Designed to help creators write, manage, and publish content with integrated med
 </table>
 
 </td>
-</tr>
-<tr>
-<td align="center">
+<td width="50%" valign="top" align="center">
 
 <h3>🌍 TRAVENTURE</h3>
 
-A travel-focused platform designed to make destination discovery and trip planning easier.
+<!-- Replace with your project screenshot URL -->
+<a href="YOUR_TRAVENTURE_LIVE_LINK">
+<img src="YOUR_TRAVENTURE_IMAGE_URL" width="100%" alt="TRAVENTURE Project Preview"/>
+</a>
 
-Bringing travel exploration and booking-oriented experiences into one interface.
-
-<br/>
+A travel platform concept focused on destination discovery and a convenient trip-planning experience.
 
 **Tech Stack**
 
 `HTML` `CSS` `JavaScript`
-
-<br/>
 
 <table>
 <tr>
@@ -341,10 +335,6 @@ Bringing travel exploration and booking-oriented experiences into one interface.
 </td>
 </tr>
 </table>
-
-<br/>
-
-**💡 Building ideas into real-world solutions.**
 
 </div>
 
