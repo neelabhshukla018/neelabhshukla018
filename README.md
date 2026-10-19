@@ -1,10 +1,13 @@
 <div align="center">
 
-<img src="./assests/neelabh-hero.svg" alt="Neelabh Shukla - Full-Stack Developer" width="100%"/>
+# 👋 Hi, I'm **Neelabh Shukla**
+
+### `Full-Stack Developer` • `Agentic AI Learner` • `Problem Solver`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications;Learning+Agentic+AI;Turning+Ideas+Into+Products" />
 
 <br/>
+
 
 <a href="https://github.com/neelabhshukla018">
 <img src="https://img.shields.io/github/followers/neelabhshukla018?label=Followers&style=for-the-badge&logo=github"/>
@@ -16,7 +19,7 @@
 
 </div>
 
-<div align="center"><img src="./divider.svg" width="100%" alt=""/></div>
+---
 
 <h2 align="center">🏆 GSSoC-2026 Achievements</h2>
 
@@ -40,11 +43,8 @@
   <b>GSSoC 2026 Contributor</b> • <b>3,443 Points</b> • <b>Top 4%</b>
 </p>
 
-<br/>
 
-<div align="center">
-<img src="./assets/certificates.svg" alt="Hanging certificates" width="100%"/>
-</div>
+<br/>
 
 <table align="center">
   <tr>
@@ -90,16 +90,9 @@ const neelabh = {
 *  Exploring scalable backend systems and cloud technologies
 * 🚀 Always building, learning and improving
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+---
 
 # ⚡ Tech Stack
-
-<div align="center">
-<img src="./assets/techstack.svg" alt="Tech stack orbiting around Neelabh" width="100%"/>
-</div>
-
-<details>
-<summary><b>See the full tech list</b></summary>
 
 ### 💻 Languages
 
@@ -149,11 +142,10 @@ const neelabh = {
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vite,npm&theme=dark" />
 </p>
 
-</details>
-
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+---
 
 # 📊 GitHub Stats
+
 
 <div align="center">
 
@@ -164,7 +156,7 @@ const neelabh = {
 
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+---
 
 # 🟩 GitHub Contributions
 
@@ -180,7 +172,10 @@ const neelabh = {
 
 <br/>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+
+---
+
+
 
 # 🧠 LeetCode
 
@@ -190,7 +185,7 @@ const neelabh = {
 
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+---
 
 # 🎯 Currently Learning
 
@@ -210,7 +205,7 @@ const neelabh = {
 
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+---
 
 # 🏆 What I'm Working Towards
 
@@ -222,7 +217,7 @@ const neelabh = {
 * 🔓 Contributing more to open-source
 * 🚀 Exploring the future of Agentic AI
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+---
 
 # 🌐 Connect With Me
 
@@ -250,7 +245,7 @@ const neelabh = {
 
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+---
 
 <div align="center">
 
@@ -265,3 +260,5 @@ const neelabh = {
 ### ⭐ Thanks for visiting my profile!
 
 </div>
+
+
