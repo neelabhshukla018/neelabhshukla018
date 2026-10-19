@@ -409,9 +409,7 @@ A modern blogging platform combining AI-powered content creation, publishing, an
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/sirneelabhshuklaji/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+
 
 <a href="https://www.instagram.com//satyam_shukla_1845/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
