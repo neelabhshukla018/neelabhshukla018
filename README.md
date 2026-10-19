@@ -16,7 +16,7 @@
 
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="./divider.svg" width="100%" alt=""/></div>
 
 <h2 align="center">🏆 GSSoC-2026 Achievements</h2>
 
