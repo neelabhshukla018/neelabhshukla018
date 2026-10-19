@@ -120,7 +120,7 @@ exploring:
 
 education:
   degree: B.Tech Computer Science & Engineering
-  year: 3rd Year
+  year: Currently In 3rd Year
   university: Shri Ramswaroop Memorial University
 
 mindset: Build. Solve. Innovate.
