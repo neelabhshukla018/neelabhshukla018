@@ -232,7 +232,7 @@ Exploring intelligent AI systems
 </td>
 <td align="center" width="50%">
 
-## 💻 Advanced Full-Stack Development
+## Advanced Full-Stack Development
 
 
 `Frontend & Backend` · `REST APIs`
@@ -273,8 +273,6 @@ Designing maintainable, scalable systems
 </td>
 </tr>
 </table>
-
-**🚀 Learn • Build • Design • Deploy • Improve**
 
 </div>
 
