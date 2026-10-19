@@ -373,37 +373,22 @@ A modern blogging platform combining AI-powered content creation, publishing, an
 
 
 
-## 🧠 LeetCode Dashboard
+## 🧠 LeetCode
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center" valign="middle">
-
-### 📊 Problem-Solving Stats
-
 <a href="https://leetcode.com/u/sirneelabhshuklaji/">
-<img src="https://leetcard.jacoblin.cool/sirneelabhshuklaji?theme=dark&font=Kreon" width="100%" alt="LeetCode Statistics"/>
+  <img
+    src="https://leetcard.jacoblin.cool/sirneelabhshuklaji?theme=dark&font=Kreon&ext=activity"
+    width="100%"
+    alt="LeetCode Statistics"
+  />
 </a>
 
-</td>
-<td width="50%" align="center" valign="middle">
-
-### 🟩 Recent Activity
+<br/><br/>
 
 <a href="https://leetcode.com/u/sirneelabhshuklaji/">
-<img src="https://leetcode-calander-svg.vercel.app/sirneelabhshuklaji" width="100%" alt="LeetCode Submission Activity Heatmap"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<a href="https://leetcode.com/u/sirneelabhshuklaji/">
-<img src="https://img.shields.io/badge/VIEW_LEETCODE_PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="View LeetCode Profile"/>
+  <img src="https://img.shields.io/badge/VIEW_PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="View LeetCode Profile"/>
 </a>
 
 </div>
