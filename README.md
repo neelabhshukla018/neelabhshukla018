@@ -92,55 +92,87 @@ const neelabh = {
 
 ---
 
+
 # ⚡ Tech Stack
+
+<div align="center">
+
+### 🌌 Technologies That Power My Universe
+
+<table>
+<tr>
+<td align="center" width="50%">
 
 ### 💻 Languages
 
-<p>
 <img src="https://skillicons.dev/icons?i=java,js,ts,c,cpp&theme=dark" />
-</p>
+
+</td>
+<td align="center" width="50%">
 
 ### 🎨 Frontend
 
-<p>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=dark" />
-</p>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
 
 ### ⚙️ Backend
 
-<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
-<img src="https://img.shields.io/badge/REST_API-111827?style=for-the-badge" />
+<br/>
 
-<img src="https://img.shields.io/badge/JWT-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST_API-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/JWT-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.IO-111827?style=flat-square&logo=socketdotio&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Socket.IO-111827?style=for-the-badge&logo=socketdotio&logoColor=white" />
-</p>
+</td>
+<td align="center" width="50%">
 
 ### 🗄️ Database & ORM
 
-<p>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma&theme=dark" />
 
-<img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" />
-</p>
+<br/>
+
+<img src="https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
 
 ### ☁️ Deployment & Cloud
 
-<p>
 <img src="https://skillicons.dev/icons?i=vercel,netlify,aws&theme=dark" />
 
-<img src="https://img.shields.io/badge/Render-111827?style=for-the-badge&logo=render&logoColor=white" />
-</p>
+<br/>
+
+<img src="https://img.shields.io/badge/Render-111827?style=flat-square&logo=render&logoColor=white" />
+
+</td>
+<td align="center" width="50%">
 
 ### 🛠️ Tools
 
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vite,npm&theme=dark" />
-</p>
+
+</td>
+</tr>
+</table>
+
+**━━━━━━━━━━ ✦ ━━━━━━━━━━**
+
+`BUILD` • `LEARN` • `INNOVATE`
+
+</div>
+
 
 ---
 
