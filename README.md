@@ -198,8 +198,7 @@ const neelabh = {
 
 
 
-
-## 🚀 Featured Project
+# 🚀 Featured Project
 
 <div align="center">
 
