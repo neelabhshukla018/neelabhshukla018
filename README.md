@@ -94,7 +94,7 @@ const neelabh = {
 
 
 
-# ⚡ Tech Stack
+#  Tech Stack
 
 <div align="center">
 
@@ -102,14 +102,14 @@ const neelabh = {
 <tr>
 <td align="center" width="50%">
 
-### 💻 Languages
+###  Languages
 
 <img src="https://skillicons.dev/icons?i=java,js,ts,c,cpp&theme=dark" />
 
 </td>
 <td align="center" width="50%">
 
-### 🎨 Frontend
+###  Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=dark" />
 
@@ -119,7 +119,7 @@ const neelabh = {
 <tr>
 <td align="center" width="50%">
 
-### ⚙️ Backend
+###  Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
@@ -133,7 +133,7 @@ const neelabh = {
 </td>
 <td align="center" width="50%">
 
-### 🗄️ Database & ORM
+###  Database & ORM
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma&theme=dark" />
 
@@ -147,7 +147,7 @@ const neelabh = {
 <tr>
 <td align="center" width="50%">
 
-### ☁️ Deployment & Cloud
+###  Deployment & Cloud
 
 <img src="https://skillicons.dev/icons?i=vercel,netlify,aws&theme=dark" />
 
@@ -158,7 +158,7 @@ const neelabh = {
 </td>
 <td align="center" width="50%">
 
-### 🛠️ Tools
+###  Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vite,npm&theme=dark" />
 
