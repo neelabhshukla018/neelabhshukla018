@@ -282,7 +282,7 @@ A modern blogging platform combining AI-powered content creation, publishing, an
 ---
 
 
-## 🎯 Currently Learning
+# ℂ𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕃𝕖𝕒𝕣𝕟𝕚𝕟𝕘
 
 <div align="center">
 
