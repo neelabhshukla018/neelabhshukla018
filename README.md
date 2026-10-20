@@ -21,13 +21,15 @@
     <img src="./rising_star.png" alt="GSSoC Rising Star" width="150"/>
   </a>
 
+   <a href="https://gssoc.girlscript.org/profile/5188220f-4722-40d3-bc88-6f8492cff615">
+    <img src="./role_contributor.png" alt="GSSoC Code Warrior" width="150"/>
+  </a>
+
   <a href="https://gssoc.girlscript.org/profile/5188220f-4722-40d3-bc88-6f8492cff615">
     <img src="./point_scorer.png" alt="GSSoC Point Scorer" width="150"/>
   </a>
 
-  <a href="https://gssoc.girlscript.org/profile/5188220f-4722-40d3-bc88-6f8492cff615">
-    <img src="./role_contributor.png" alt="GSSoC Code Warrior" width="150"/>
-  </a>
+ 
 
   <a href="https://gssoc.girlscript.org/profile/5188220f-4722-40d3-bc88-6f8492cff615">
     <img src="./open.png" alt="GSSoC Code Warrior" width="150"/>
