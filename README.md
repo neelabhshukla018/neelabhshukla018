@@ -364,7 +364,7 @@ A modern blogging platform combining AI-powered content creation, publishing, an
 ---
 
 
-# 📊 GitHub Stats With Me
+# 𝔾𝕚𝕥ℍ𝕦𝕓 𝕊𝕥𝕒𝕥𝕤 𝕎𝕚𝕥𝕙 𝕄𝕖
 
 <table>
 <tr>
