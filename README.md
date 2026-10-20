@@ -1,13 +1,7 @@
 
 <div align="center">
 
-<a href="https://github.com/neelabhshukla018">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:020617,25:1E1B4B,50:4C1D95,75:6D28D9,100:020617&text=Neelabh%20Shukla&fontColor=FFFFFF&fontSize=58&fontAlignY=42&desc=FULL-STACK%20DEVELOPER%20%7C%20AGENTIC%20AI%20LEARNER&descSize=15&descAlignY=62&animation=twinkling&stroke=A78BFA&strokeWidth=2"
-    alt="Neelabh Shukla animated purple developer banner"
-  />
-</a>
+<img src="./assets/neelabh-hero.svg" alt="Neelabh Shukla — Full-Stack Developer and Agentic AI Learner" width="100%" />
 
 <br/>
 
