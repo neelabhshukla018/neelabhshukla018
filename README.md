@@ -294,9 +294,15 @@
 <br/>
 
 <!-- Replace these icons with your actual Socialint tech stack if different -->
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs&theme=dark" alt="Socialint technology stack"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind,python,fastapi&theme=dark" alt="Next.js, TypeScript, Tailwind CSS, Python and FastAPI"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Machine_Learning-8B5CF6?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
+  <img src="https://img.shields.io/badge/Apify-00A58E?style=for-the-badge&logo=apify&logoColor=white" alt="Apify"/>
 </p>
+
 
 <br/>
 
