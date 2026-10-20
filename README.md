@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/neelabhshukla018">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0F172A,50:312E81,100:7C3AED&text=𝙉𝙚𝙚𝙡𝙖𝙗𝙝%𝙎𝙝𝙪𝙠𝙡𝙖&fontColor=FFFFFF&fontSize=55&fontAlignY=42&desc=FULL-STACK%20DEVELOPER%20%7C%20AGENTIC%20AI%20LEARNER&descSize=15&descAlignY=62&animation=twinkling&stroke=8B5CF6&strokeWidth=1" alt="Neelabh Shukla animated banner"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0F172A,50:312E81,100:7C3AED&text=ℕ𝕖𝕖𝕝𝕒𝕓𝕙%𝕊𝕙𝕦𝕜𝕝𝕒&fontColor=FFFFFF&fontSize=55&fontAlignY=42&desc=FULL-STACK%20DEVELOPER%20%7C%20AGENTIC%20AI%20LEARNER&descSize=15&descAlignY=62&animation=twinkling&stroke=8B5CF6&strokeWidth=1" alt="Neelabh Shukla animated banner"/>
 </a>
 
 <br/>
