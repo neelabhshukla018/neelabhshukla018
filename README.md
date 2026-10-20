@@ -233,7 +233,7 @@ mindset: Build. Solve. Innovate.
 
 ---
 
-# 🚀 Featured Projects
+# 𝔽𝕖𝕒𝕥𝕦𝕣𝕖𝕕 ℙ𝕣𝕠𝕛𝕖𝕔𝕥𝕤
 
 <div align="center">
 
