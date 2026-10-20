@@ -29,6 +29,11 @@
     <img src="./role_contributor.png" alt="GSSoC Code Warrior" width="150"/>
   </a>
 
+  <a href="https://gssoc.girlscript.org/profile/5188220f-4722-40d3-bc88-6f8492cff615">
+    <img src="./open.png" alt="GSSoC Code Warrior" width="150"/>
+  </a>
+  
+
 </p>
 
 <p align="center">
