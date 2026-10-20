@@ -247,6 +247,7 @@
 <tr>
 
 <td width="58%" valign="middle" align="center">
+### 𝑫𝑬𝑺𝑷𝑰𝑹𝑬 
 
 𝑨 𝒎𝒐𝒅𝒆𝒓𝒏 𝒃𝒍𝒐𝒈𝒈𝒊𝒏𝒈 𝒑𝒍𝒂𝒕𝒇𝒐𝒓𝒎 𝒄𝒐𝒎𝒃𝒊𝒏𝒊𝒏𝒈 𝑨𝑰-𝒑𝒐𝒘𝒆𝒓𝒆𝒅 𝒄𝒐𝒏𝒕𝒆𝒏𝒕 𝒄𝒓𝒆𝒂𝒕𝒊𝒐𝒏, 𝒑𝒖𝒃𝒍𝒊𝒔𝒉𝒊𝒏𝒈, 𝒂𝒏𝒅 𝒎𝒆𝒅𝒊𝒂 𝒎𝒂𝒏𝒂𝒈𝒆𝒎𝒆𝒏𝒕 𝒊𝒏 𝒐𝒏𝒆 𝒑𝒍𝒂𝒄𝒆.
 
@@ -258,7 +259,7 @@
 <br/>
 
 <a href="https://despire-blogsmt.netlify.app/">
-<img src="https://img.shields.io/badge/↗️_Try_Now-8B5CF6?style=for-the-badge" alt="Try Now"/>
+<img src="https://img.shields.io/badge/↗_Try_Now-8B5CF6?style=for-the-badge" alt="Try Now"/>
 </a>
 &nbsp;
 <a href="https://github.com/neelabhshukla018/Despiree-_Blogs">
@@ -269,7 +270,7 @@
 
 
 <td width="42%" valign="middle" align="center">
-<h3>𝑫𝑬𝑺𝑷𝑰𝑹𝑬 — 𝑨𝑰 𝑩𝒍𝒐𝒈𝒈𝒊𝒏𝒈 𝑷𝒍𝒂𝒕𝒇𝒐𝒓𝒎</h3>
+<h3> 𝑨𝑰 𝑩𝒍𝒐𝒈𝒈𝒊𝒏𝒈 𝑷𝒍𝒂𝒕𝒇𝒐𝒓𝒎</h3>
 <a href="https://despire-blogsmt.netlify.app/">
 <img src="./Github_Projects_images/Despire.png" width="100%" alt="DESPIRE Project Preview"/>
 </a>
@@ -310,7 +311,7 @@
 
 <td width="42%" valign="middle" align="center">
 
-<h3>𝑺𝒐𝒄𝒊𝒂𝒍𝒊𝒏𝒕 — 𝑺𝒐𝒄𝒊𝒂𝒍 𝑰𝒏𝒕𝒆𝒍𝒍𝒊𝒈𝒆𝒏𝒄𝒆</h3>
+<h3>𝑺𝒐𝒄𝒊𝒂𝒍 𝑰𝒏𝒕𝒆𝒍𝒍𝒊𝒈𝒆𝒏𝒄𝒆 𝑷𝒍𝒂𝒕𝒇𝒐𝒓𝒎</h3>
 
 <a href="https://sociallint.netlify.app/">
 <img src="./Socialint.png" width="100%" alt="Socialint Project Preview"/>
