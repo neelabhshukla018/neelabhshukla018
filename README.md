@@ -1,10 +1,23 @@
+
 <div align="center">
 
 <a href="https://github.com/neelabhshukla018">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0F172A,50:312E81,100:7C3AED&text=ℕ𝕖𝕖𝕝𝕒𝕓𝕙%_𝕊𝕙𝕦𝕜𝕝𝕒&fontColor=FFFFFF&fontSize=55&fontAlignY=42&desc=𝙁𝙐𝙇𝙇-𝙎𝙏𝘼𝘾𝙆%20𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙀𝙍%20%7C%20𝑨𝑮𝑬𝑵𝑻𝑰𝑪%20𝑨𝑰%20𝑳𝑬𝑨𝑹𝑵𝑬𝑹&descSize=15&descAlignY=62&animation=twinkling&stroke=8B5CF6&strokeWidth=1" alt="Neelabh Shukla animated banner"/>
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:020617,25:1E1B4B,50:4C1D95,75:6D28D9,100:020617&text=Neelabh%20Shukla&fontColor=FFFFFF&fontSize=58&fontAlignY=42&desc=FULL-STACK%20DEVELOPER%20%7C%20AGENTIC%20AI%20LEARNER&descSize=15&descAlignY=62&animation=twinkling&stroke=A78BFA&strokeWidth=2"
+    alt="Neelabh Shukla animated purple developer banner"
+  />
 </a>
 
 <br/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=700&color=C4B5FD&center=true&vCenter=true&width=700&lines=%3E+Building+Modern+Web+Applications;%3E+Exploring+Agentic+AI+%26+LLMs;%3E+Designing+Scalable+Full-Stack+Systems;%3E+Learning+DSA+%26+System+Design;%3E+Turning+Ideas+Into+Products"
+  alt="Animated developer introduction"
+/>
+
+</div>
+
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Exploring+Agentic+AI+%26+LLMs;Designing+Scalable+Full-Stack+Systems;Learning+DSA+%26+System+Design;Turning+Ideas+Into+Products" alt="Animated typing text"/>
