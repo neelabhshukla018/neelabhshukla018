@@ -152,7 +152,7 @@ mindset: Build. Solve. Innovate.
 
 
 
-# ⚡ Tech Stack
+#  𝕋𝕖𝕔𝕙 𝕊𝕥𝕒𝕔𝕜
 
 <div align="center">
 
