@@ -57,7 +57,7 @@
   width="95%"
 />
 
-**Smartly Labs Certificate**
+**𝑺𝒎𝒂𝒓𝒕𝒍𝒚 𝑳𝒂𝒃𝒔 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒆**
 
 </td>
 <td align="center" valign="top" width="50%">
@@ -75,7 +75,7 @@
   width="95%"
 />
 
-**GSSoC 2026 Certificate**
+**𝑮𝑺𝑺𝒐𝑪 2026 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒆**
 
 </td>
 </tr>
