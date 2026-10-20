@@ -105,7 +105,7 @@
 <!-- LEFT CARD: DEVELOPER PROFILE -->
 <td width="50%" valign="middle">
 
-### `> developer.config`
+### `> 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧.𝙘𝙤𝙣𝙛𝙞𝙜`
 
 ```yaml
 𝒏𝒂𝒎𝒆: 𝑵𝒆𝒆𝒍𝒂𝒃𝒉 𝑺𝒉𝒖𝒌𝒍𝒂
@@ -137,7 +137,7 @@
 <!-- RIGHT CARD: HACKER ANIMATION -->
 <td width="45%" valign="middle" align="center">
 
-### `> system.online`
+### `> 𝙨𝙮𝙨𝙩𝙚𝙢.𝙤𝙣𝙡𝙞𝙣𝙚`
 
 <img
   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
@@ -147,7 +147,7 @@
 
 **`01000010 01010101 01001001 01001100 01000100`**
 
-`ACCESS GRANTED ✓`
+`𝑨𝑪𝑪𝑬𝑺𝑺 𝑮𝑹𝑨𝑵𝑻𝑬𝑫 ✓`
 
 </td>
 </tr>
@@ -167,14 +167,14 @@
 <tr>
 <td align="center" width="50%">
 
-### 💻 Languages
+##  𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔
 
 <img src="https://skillicons.dev/icons?i=java,js,ts,c&theme=dark" />
 
 </td>
 <td align="center" width="50%">
 
-### 🎨 Frontend
+## 𝑭𝒓𝒐𝒏𝒕𝒆𝒏𝒅
 
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=dark" />
 
@@ -184,7 +184,7 @@
 <tr>
 <td align="center" width="50%">
 
-### ⚙️ Backend
+##  𝑩𝒂𝒄𝒌𝒆𝒏𝒅
 
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
@@ -198,7 +198,7 @@
 </td>
 <td align="center" width="50%">
 
-### 🗄️ Database & ORM
+##  𝑫𝒂𝒕𝒂𝒃𝒂𝒔𝒆 & 𝑶𝑹𝑴
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma&theme=dark" />
 
@@ -212,7 +212,7 @@
 <tr>
 <td align="center" width="50%">
 
-### ☁️ Deployment & Cloud
+##  𝑫𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕 & 𝑪𝒍𝒐𝒖𝒅
 
 <img src="https://skillicons.dev/icons?i=vercel,netlify,aws&theme=dark" />
 
@@ -223,7 +223,7 @@
 </td>
 <td align="center" width="50%">
 
-### 🛠️ Tools
+##  𝑻𝒐𝒐𝒍𝒔
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vite,npm&theme=dark" />
 
