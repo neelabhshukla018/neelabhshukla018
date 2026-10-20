@@ -5,19 +5,9 @@
 
 <br/>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=700&color=C4B5FD&center=true&vCenter=true&width=700&lines=%3E+Building+Modern+Web+Applications;%3E+Exploring+Agentic+AI+%26+LLMs;%3E+Designing+Scalable+Full-Stack+Systems;%3E+Learning+DSA+%26+System+Design;%3E+Turning+Ideas+Into+Products"
-  alt="Animated developer introduction"
-/>
-
-</div>
-
-
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Exploring+Agentic+AI+%26+LLMs;Designing+Scalable+Full-Stack+Systems;Learning+DSA+%26+System+Design;Turning+Ideas+Into+Products" alt="Animated typing text"/>
 
 
-</div>
 
 ---
 
