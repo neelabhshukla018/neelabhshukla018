@@ -304,7 +304,7 @@
 <img src="https://img.shields.io/badge/↗_TRY_NOW-8B5CF6?style=for-the-badge" alt="Try Socialint"/>
 </a>
 &nbsp;
-<a href="https://github.com/neelabhshukla018">
+<a href="https://github.com/neelabhshukla018/Socialint">
 <img src="https://img.shields.io/badge/SEE_CODE-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
