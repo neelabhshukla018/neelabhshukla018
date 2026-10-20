@@ -343,7 +343,7 @@ A modern blogging platform combining AI-powered content creation, publishing, an
 
 
 
-## 🧠 LeetCode
+# 𝕃𝕖𝕖𝕥ℂ𝕠𝕕𝕖
 
 <div align="center">
 
