@@ -278,6 +278,49 @@
 </tr>
 </table>
 
+
+
+<table>
+<tr>
+
+<td width="58%" valign="middle" align="center">
+
+### 𝑺𝑶𝑪𝑰𝑨𝑳𝑰𝑵𝑻
+
+𝑨 𝒔𝒐𝒄𝒊𝒂𝒍 𝒎𝒆𝒅𝒊𝒂 𝒊𝒏𝒕𝒆𝒍𝒍𝒊𝒈𝒆𝒏𝒄𝒆 𝒑𝒍𝒂𝒕𝒇𝒐𝒓𝒎 𝒃𝒖𝒊𝒍𝒕 𝒕𝒐 𝒂𝒏𝒂𝒍𝒚𝒛𝒆 𝒔𝒐𝒄𝒊𝒂𝒍 𝒄𝒐𝒏𝒕𝒆𝒏𝒕 𝒂𝒏𝒅 𝒕𝒖𝒓𝒏 𝒊𝒏𝒔𝒊𝒈𝒉𝒕𝒔 𝒊𝒏𝒕𝒐 𝒂𝒄𝒕𝒊𝒐𝒏𝒂𝒃𝒍𝒆 𝒊𝒏𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒐𝒏.
+
+<br/>
+
+<!-- Replace these icons with your actual Socialint tech stack if different -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs&theme=dark" alt="Socialint technology stack"/>
+</p>
+
+<br/>
+
+<a href="https://sociallint.netlify.app/">
+<img src="https://img.shields.io/badge/↗_TRY_NOW-8B5CF6?style=for-the-badge" alt="Try Socialint"/>
+</a>
+&nbsp;
+<a href="https://github.com/neelabhshukla018">
+<img src="https://img.shields.io/badge/SEE_CODE-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</td>
+
+<td width="42%" valign="middle" align="center">
+
+<h3>𝑺𝒐𝒄𝒊𝒂𝒍𝒊𝒏𝒕 — 𝑺𝒐𝒄𝒊𝒂𝒍 𝑰𝒏𝒕𝒆𝒍𝒍𝒊𝒈𝒆𝒏𝒄𝒆</h3>
+
+<a href="https://sociallint.netlify.app/">
+<img src="./Socialint.png" width="100%" alt="Socialint Project Preview"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
 </div>
 
 
