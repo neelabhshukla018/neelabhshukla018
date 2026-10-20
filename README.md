@@ -108,28 +108,28 @@
 ### `> developer.config`
 
 ```yaml
-name: Neelabh Shukla
-title: Full-Stack Developer
-focus: Building Scalable Web Applications
+𝒏𝒂𝒎𝒆: 𝑵𝒆𝒆𝒍𝒂𝒃𝒉 𝑺𝒉𝒖𝒌𝒍𝒂
+𝒕𝒊𝒕𝒍𝒆: 𝑭𝒖𝒍𝒍-𝑺𝒕𝒂𝒄𝒌 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓
+𝒇𝒐𝒄𝒖𝒔: 𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝑺𝒄𝒂𝒍𝒂𝒃𝒍𝒆 𝑾𝒆𝒃 𝑨𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔
 
-expertise:
-  frontend: React, Next.js, Tailwind CSS
-  backend: Node.js, Express.js, REST APIs
-  databases: MongoDB, PostgreSQL, MySQL
+𝕖𝕩𝕡𝕖𝕣𝕥𝕚𝕤𝕖:
+  𝒇𝒓𝒐𝒏𝒕𝒆𝒏𝒅: 𝑹𝒆𝒂𝒄𝒕, 𝑵𝒆𝒙𝒕.𝒋𝒔, 𝑻𝒂𝒊𝒍𝒘𝒊𝒏𝒅 𝑪𝑺𝑺
+  𝒃𝒂𝒄𝒌𝒆𝒏𝒅: 𝑵𝒐𝒅𝒆.𝒋𝒔, 𝑬𝒙𝒑𝒓𝒆𝒔𝒔.𝒋𝒔, 𝑹𝑬𝑺𝑻 𝑨𝑷𝑰𝒔
+  𝒅𝒂𝒕𝒂𝒃𝒂𝒔𝒆𝒔: 𝑴𝒐𝒏𝒈𝒐𝑫𝑩, 𝑷𝒐𝒔𝒕𝒈𝒓𝒆𝑺𝑸𝑳, 𝑴𝒚𝑺𝑸𝑳
 
-exploring:
-  - Agentic AI & LLM Applications
-  - Advanced Full-Stack Engineering
-  - System Design (LLD & HLD)
-  - DevOps & Cloud Infrastructure
-  - Data Structures & Algorithms in Java
+𝕖𝕩𝕡𝕝𝕠𝕣𝕚𝕟𝕘:
+  - 𝑨𝒈𝒆𝒏𝒕𝒊𝒄 𝑨𝑰 & 𝑳𝑳𝑴 𝑨𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔
+  - 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅 𝑭𝒖𝒍𝒍-𝑺𝒕𝒂𝒄𝒌 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈
+  - 𝑺𝒚𝒔𝒕𝒆𝒎 𝑫𝒆𝒔𝒊𝒈𝒏 (𝑳𝑳𝑫 & 𝑯𝑳𝑫)
+  - 𝑫𝒆𝒗𝑶𝒑𝒔 & 𝑪𝒍𝒐𝒖𝒅 𝑰𝒏𝒇𝒓𝒂𝒔𝒕𝒓𝒖𝒄𝒕𝒖𝒓𝒆
+  - 𝑫𝒂𝒕𝒂 𝑺𝒕𝒓𝒖𝒄𝒕𝒖𝒓𝒆𝒔 & 𝑨𝒍𝒈𝒐𝒓𝒊𝒕𝒉𝒎𝒔 𝒊𝒏 𝑱𝒂𝒗𝒂
 
-education:
-  degree: B.Tech Computer Science & Engineering
-  year: Currently In 3rd Year
-  university: Shri Ramswaroop Memorial University
+𝕖𝕕𝕦𝕔𝕒𝕥𝕚𝕠𝕟:
+  𝒅𝒆𝒈𝒓𝒆𝒆: 𝑩.𝑻𝒆𝒄𝒉 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 & 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈
+  𝒚𝒆𝒂𝒓: 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝑰𝒏 3𝒓𝒅 𝒀𝒆𝒂𝒓
+  𝒖𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒚: 𝑺𝒉𝒓𝒊 𝑹𝒂𝒎𝒔𝒘𝒂𝒓𝒐𝒐𝒑 𝑴𝒆𝒎𝒐𝒓𝒊𝒂𝒍 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒚
 
-mindset: Build. Solve. Innovate.
+𝙢𝙞𝙣𝙙𝙨𝙚𝙩: 𝘽𝙪𝙞𝙡𝙙. 𝙎𝙤𝙡𝙫𝙚. 𝙄𝙣𝙣𝙤𝙫𝙖𝙩𝙚.
 ```
 
 </td>
