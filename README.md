@@ -377,7 +377,7 @@ A modern blogging platform combining AI-powered content creation, publishing, an
 </td>
 <td width="75%" align="center" valign="middle">
 
-### 🌐 Connect With Me
+##  𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙒𝙞𝙩𝙝 𝙈𝙚
 
 <table>
 <tr>
