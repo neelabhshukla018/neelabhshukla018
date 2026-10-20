@@ -7,7 +7,7 @@
 <br/>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Exploring+Agentic+AI+%26+LLMs;Designing+Scalable+Full-Stack+Systems;Learning+DSA+%26+System+Design;Turning+Ideas+Into+Products" alt="Animated typing text"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈+𝑴𝒐𝒅𝒆𝒓𝒏+Web+Applications;Exploring+Agentic+AI+%26+LLMs;Designing+Scalable+Full-Stack+Systems;Learning+DSA+%26+System+Design;Turning+Ideas+Into+Products" alt="Animated typing text"/>
 
 
 </div>
