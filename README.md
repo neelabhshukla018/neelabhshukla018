@@ -297,7 +297,7 @@
 <tr>
 <td align="center" width="50%">
 
-### 🕸️ Agentic AI
+##  𝘼𝙜𝙚𝙣𝙩𝙞𝙘 𝘼𝙄
 
 `AI Agents` · `LLM Applications`
 
@@ -306,7 +306,7 @@
 </td>
 <td align="center" width="50%">
 
-### 🕷️Advanced Full-Stack 
+## 𝘼𝙙𝙫𝙖𝙣𝙘𝙚𝙙 𝙁𝙪𝙡𝙡-𝙎𝙩𝙖𝙘𝙠 
 
 
 `Frontend & Backend` · `REST APIs`
@@ -319,7 +319,7 @@
 <tr>
 <td align="center" width="50%">
 
-### ⚙️ DevOps & Cloud
+##  𝘿𝙚𝙫𝙊𝙥𝙨 & 𝘾𝙡𝙤𝙪𝙙
 
 `Docker` · `CI/CD`
 
@@ -328,7 +328,7 @@
 </td>
 <td align="center" width="50%">
 
-### 🏗️ System Design
+## 𝙎𝙮𝙨𝙩𝙚𝙢 𝘿𝙚𝙨𝙞𝙜𝙣
 
 `LLD` · `HLD`
 
