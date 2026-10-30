@@ -353,7 +353,7 @@
 ## 𝘼𝙙𝙫𝙖𝙣𝙘𝙚𝙙 𝙁𝙪𝙡𝙡-𝙎𝙩𝙖𝙘𝙠 
 
 
-`Frontend & Backend` · `REST APIs`
+`Frontend & Backend` · `REST-APIs`
 
 `Authentication` · `System Integration`
 
