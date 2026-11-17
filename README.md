@@ -398,9 +398,8 @@
 
 <div align="center">
 
-<a href="https://leetcode.com/u/sirneelabhshuklaji/">
-  <img
-    src="https://leetcard.jacoblin.cool/sirneelabhshuklaji?theme=dark&font=Kreon&ext=activity"
+<a href="https://leetcode.com/u/neelabhshukla018/"
+    src="https://leetcard.jacoblin.cool/neelabhshukla018?theme=dark&font=Kreon&ext=activity"
     width="510"
     alt="LeetCode Statistics"
   />
