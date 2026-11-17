@@ -406,7 +406,7 @@
   />
 </a>
 
-<a href="https://leetcode.com/u/sirneelabhshuklaji/">
+<a href="https://leetcode.com/u/neelabhshukla018/">
   <img src="https://img.shields.io/badge/VIEW_PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="View LeetCode Profile"/>
 </a>
 
