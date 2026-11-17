@@ -394,20 +394,27 @@
 
 ---
 
+
 # 𝕃𝕖𝕖𝕥ℂ𝕠𝕕𝕖
 
 <div align="center">
 
-<a href="https://leetcode.com/u/neelabhshukla018/"
-    src="https://leetcard.jacoblin.cool/neelabhshukla018?theme=dark&font=Kreon&ext=activity"
-    width="510"
-    alt="LeetCode Statistics"
-  />
-</a>
+  <a href="https://leetcode.com/u/neelabhshukla018/">
+    <img
+      src="https://leetcard.jacoblin.cool/neelabhshukla018?theme=dark&font=Kreon&ext=activity"
+      width="510"
+      alt="LeetCode Statistics"
+    />
+  </a>
 
-<a href="https://leetcode.com/u/neelabhshukla018/">
-  <img src="https://img.shields.io/badge/VIEW_PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="View LeetCode Profile"/>
-</a>
+  <br/><br/>
+
+  <a href="https://leetcode.com/u/neelabhshukla018/">
+    <img
+      src="https://img.shields.io/badge/VIEW_PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+      alt="View LeetCode Profile"
+    />
+  </a>
 
 </div>
 
